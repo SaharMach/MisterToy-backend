@@ -15,12 +15,34 @@ export const toyService = {
 
 
 function query(filterBy = {}) {
-    let toysToDisplay = toys
+    let toysToShow = toys
     if (filterBy.txt) {
         const regExp = new RegExp(filterBy.txt, 'i')
-        toysToDisplay = toysToDisplay.filter(toy => regExp.test(toy.name))
+        toysToShow = toysToShow.filter(toy => regExp.test(toy.name))
+    } 
+    if (filterBy.inStock) {
+        const regExp = new RegExp(filterBy.inStock, 'i')
+        toysToShow = toysToShow.filter(toy =>  regExp.test(toy.inStock))
     }
-    return Promise.resolve(toysToDisplay)
+    if (filterBy.labels) {
+        const regExp = new RegExp(filterBy.labels, 'i')
+        toysToShow= toysToShow.filter(toy => regExp.test(toy.labels))
+    }
+    if (filterBy.sortBy) {
+        toysToShow.sort((a, b) => {
+            switch (filterBy.sortBy) {
+                case 'name':
+                    return a.name.localeCompare(b.name)
+                case 'price':
+                    return a.price - b.price
+                case 'created':
+                    return new Date(a.created) - new Date(b.created)
+                default:
+                return 
+            }
+        })
+    }   
+    return Promise.resolve({toysToShow, labels})
 }
 
 function get(toyId) {

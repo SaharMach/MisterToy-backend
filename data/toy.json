@@ -1,16 +1,5 @@
 [
     {
-        "_id": "t102",
-        "name": "Buzz",
-        "price": 15,
-        "labels": [
-            "Doll",
-            "Battery Powered"
-        ],
-        "createdAt": 1631031801011,
-        "inStock": true
-    },
-    {
         "_id": "t101",
         "name": "Talking Doll",
         "price": 123,
@@ -23,13 +12,13 @@
         "inStock": true
     },
     {
-        "name": "wqa",
-        "price": 22,
+        "name": "qweww",
+        "price": 2,
         "labels": [
-            "Battery Powered"
+            "Art"
         ],
         "inStock": true,
-        "createdAt": 1695228454842,
-        "_id": "mEXe5"
+        "createdAt": 1695241745323,
+        "_id": "0Xd7f"
     }
 ]
