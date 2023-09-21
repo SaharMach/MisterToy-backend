@@ -10,16 +10,6 @@
         "_id": "rPOkC"
     },
     {
-        "name": "qweww",
-        "price": 2,
-        "labels": [
-            "Art"
-        ],
-        "inStock": true,
-        "createdAt": 1695241745323,
-        "_id": "0Xd7f"
-    },
-    {
         "name": "wqeqwe",
         "price": 33,
         "labels": [
@@ -40,13 +30,13 @@
         "_id": "bjdCg"
     },
     {
-        "name": "xaw",
-        "price": 223,
+        "name": "dsifjeri",
+        "price": 99,
         "labels": [
-            "Outdoor"
+            "Doll"
         ],
         "inStock": true,
-        "createdAt": 1695245497956,
-        "_id": "rcYB9"
+        "createdAt": 1695245836800,
+        "_id": "y4yDQ"
     }
 ]
