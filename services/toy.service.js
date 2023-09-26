@@ -4,9 +4,11 @@ import { utilService } from './util.service.js'
 const toys = utilService.readJsonFile('data/toy.json')
 const labels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle', 'Outdoor', 'Battery Powered']
 const imgs = ["https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-a07syh_9331bd0a.jpeg?region=0,0,450,450",
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0FPkmwZetj0GC8CsmkFwjhSX_1HeAcudjuw&usqp=CAU", 
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-V_EzNRxAhsJvumlIKm4w-VXEpjqfN_cEFg&usqp=CAU", 
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tvVBYdCfyiAcTR0W7AyN1wa6LFQQwi9UzhjKwnZFz_ZkX3T0PpZ4-B10C2UrkohaM3Q&usqp=CAU",
-"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWAMjWtLKM38J9fNyp73awZecPMSgnenTj_7K2gUxq7AtgGbh6QUYpFZWyAdhyM6ryKgY&usqp=CAU",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD0se7qm2IxwPGeUuwamEI18mVPz_H8HUww&usqp=CAU",
+"https://www.onlinetoys.com.au/wp-content/webp-express/webp-images/uploads/2021/12/toy-story-4-mrs-potato-head.jpg.webp",
+"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHNwseGLV9mBq9zpj7m5Na2cQsHC_K3xsS-unbaCO-hsWY1lAKH0eb7SWCVkbDmX-fXY&usqp=CAU"
 ]
 export const toyService = {
     query,
