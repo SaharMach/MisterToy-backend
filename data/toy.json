@@ -1,6 +1,6 @@
 [
     {
-        "name": 24,
+        "name": 12,
         "price": 1,
         "labels": [
             "Box game"
@@ -11,29 +11,7 @@
         "_id": "R1CSH"
     },
     {
-        "name": "rtyeyr",
-        "price": 11,
-        "labels": [
-            "Outdoor"
-        ],
-        "inStock": true,
-        "createdAt": 1695759043481,
-        "img": "https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-a07syh_9331bd0a.jpeg?region=0,0,450,450",
-        "_id": "TiQ8S"
-    },
-    {
-        "name": "qwe",
-        "price": 11,
-        "labels": [
-            "Puzzle"
-        ],
-        "inStock": true,
-        "createdAt": 1695762553706,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-V_EzNRxAhsJvumlIKm4w-VXEpjqfN_cEFg&usqp=CAU",
-        "_id": "78qB0"
-    },
-    {
-        "name": "qwe",
+        "name": 99,
         "price": 1,
         "labels": [
             "Baby"
@@ -42,17 +20,6 @@
         "createdAt": 1695762561927,
         "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD0se7qm2IxwPGeUuwamEI18mVPz_H8HUww&usqp=CAU",
         "_id": "p8nMA"
-    },
-    {
-        "name": "Sahar",
-        "price": 999,
-        "labels": [
-            "Box game"
-        ],
-        "inStock": true,
-        "createdAt": 1695763188343,
-        "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRxHNwseGLV9mBq9zpj7m5Na2cQsHC_K3xsS-unbaCO-hsWY1lAKH0eb7SWCVkbDmX-fXY&usqp=CAU",
-        "_id": "Rydnm"
     },
     {
         "name": "qweqwe",
