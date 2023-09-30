@@ -1653,3 +1653,136 @@
 30.9.2023, 20:36:07 - INFO - Req was made | /
 30.9.2023, 20:36:41 - INFO - server.js loaded...
 30.9.2023, 20:36:41 - INFO - Server is running on port: 3030
+30.9.2023, 20:41:12 - INFO - server.js loaded...
+30.9.2023, 20:41:12 - INFO - Server is running on port: 3030
+30.9.2023, 20:41:54 - INFO - Req was made | /
+30.9.2023, 20:41:55 - INFO - Req was made | /
+30.9.2023, 20:41:57 - INFO - Req was made | /
+30.9.2023, 20:41:57 - INFO - Req was made | /
+30.9.2023, 20:42:01 - DEBUG - auth.service - login with username: admin
+30.9.2023, 20:42:01 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 20:42:07 - INFO - Req was made | /
+30.9.2023, 20:42:07 - INFO - Req was made | /
+30.9.2023, 20:42:09 - INFO - Req was made | /
+30.9.2023, 20:42:09 - INFO - Req was made | /
+30.9.2023, 20:53:27 - INFO - Req was made | /
+30.9.2023, 20:53:27 - INFO - Req was made | /
+30.9.2023, 20:54:59 - DEBUG - auth.service - login with username: admin
+30.9.2023, 20:54:59 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 20:55:02 - INFO - Req was made | /
+30.9.2023, 20:55:03 - INFO - Req was made | /
+30.9.2023, 21:23:07 - INFO - Req was made | /
+30.9.2023, 21:23:07 - INFO - Req was made | /
+30.9.2023, 21:23:09 - INFO - Req was made | /
+30.9.2023, 21:23:09 - INFO - Req was made | /
+30.9.2023, 21:34:57 - DEBUG - auth.service - login with username: admin
+30.9.2023, 21:34:57 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 21:35:01 - INFO - Req was made | /
+30.9.2023, 21:35:01 - INFO - Req was made | /
+30.9.2023, 22:11:26 - INFO - Req was made | /
+30.9.2023, 22:11:26 - INFO - Req was made | /
+30.9.2023, 22:15:58 - INFO - Req was made | /
+30.9.2023, 22:15:58 - INFO - Req was made | /
+30.9.2023, 22:16:36 - INFO - Req was made | /
+30.9.2023, 22:16:36 - INFO - Req was made | /
+30.9.2023, 22:19:12 - INFO - server.js loaded...
+30.9.2023, 22:19:12 - INFO - Server is running on port: 3030
+30.9.2023, 22:24:37 - DEBUG - auth.service - login with username: admin
+30.9.2023, 22:24:37 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 22:24:41 - INFO - Req was made | /
+30.9.2023, 22:24:41 - INFO - Req was made | /
+30.9.2023, 22:24:44 - INFO - Req was made | /
+30.9.2023, 22:24:44 - INFO - Req was made | /
+30.9.2023, 22:24:55 - INFO - Req was made | /
+30.9.2023, 22:24:55 - INFO - Req was made | /
+30.9.2023, 22:24:58 - INFO - Req was made | /
+30.9.2023, 22:24:59 - INFO - Req was made | /
+30.9.2023, 22:25:02 - INFO - Req was made | /
+30.9.2023, 22:25:02 - INFO - Req was made | /
+30.9.2023, 22:25:57 - INFO - Req was made | /
+30.9.2023, 22:25:58 - INFO - Req was made | /
+30.9.2023, 22:27:16 - INFO - Req was made | /
+30.9.2023, 22:27:16 - INFO - Req was made | /
+30.9.2023, 22:27:27 - INFO - Req was made | /
+30.9.2023, 22:27:28 - INFO - Req was made | /
+30.9.2023, 22:29:54 - INFO - Req was made | /
+30.9.2023, 22:29:54 - INFO - Req was made | /
+30.9.2023, 22:32:17 - INFO - Req was made | /
+30.9.2023, 22:32:18 - INFO - Req was made | /
+30.9.2023, 22:32:21 - INFO - Req was made | /
+30.9.2023, 22:32:21 - INFO - Req was made | /
+30.9.2023, 22:34:04 - INFO - Req was made | /
+30.9.2023, 22:34:04 - INFO - Req was made | /
+30.9.2023, 22:34:15 - INFO - Req was made | /
+30.9.2023, 22:34:15 - INFO - Req was made | /
+30.9.2023, 22:34:18 - INFO - Req was made | /
+30.9.2023, 22:34:19 - INFO - Req was made | /
+30.9.2023, 22:36:55 - INFO - Req was made | /
+30.9.2023, 22:36:55 - INFO - Req was made | /
+30.9.2023, 22:37:10 - INFO - Req was made | /
+30.9.2023, 22:37:12 - INFO - Req was made | /
+30.9.2023, 22:37:15 - INFO - Req was made | /
+30.9.2023, 22:37:16 - INFO - Req was made | /
+30.9.2023, 22:37:18 - INFO - Req was made | /
+30.9.2023, 22:38:00 - DEBUG - auth.service - login with username: hey
+30.9.2023, 22:38:01 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+30.9.2023, 22:38:02 - INFO - Req was made | /
+30.9.2023, 22:38:03 - INFO - Req was made | /
+30.9.2023, 22:38:06 - INFO - Req was made | /
+30.9.2023, 22:38:06 - INFO - Req was made | /
+30.9.2023, 22:38:34 - DEBUG - auth.service - signup with username: bell, fullname: bell
+30.9.2023, 22:38:34 - DEBUG - auth.route - new account created: {"username":"bell","password":"$2b$10$Ti2JB.4IUbKE.aM8qoKsQujZrzV9/vs2ZPRpm4g82bKVxbTFV.PTa","fullname":"bell","isAdmin":false,"_id":"6518793ac08b7c3652327fe5"}
+30.9.2023, 22:38:34 - DEBUG - auth.service - login with username: bell
+30.9.2023, 22:38:39 - INFO - Req was made | /
+30.9.2023, 22:38:39 - INFO - Req was made | /
+30.9.2023, 22:40:06 - DEBUG - auth.service - login with username: bell
+30.9.2023, 22:40:06 - INFO - User login:  | {"_id":"6518793ac08b7c3652327fe5","username":"bell","fullname":"bell","isAdmin":false}
+30.9.2023, 22:40:11 - INFO - Req was made | /
+30.9.2023, 22:40:11 - INFO - Req was made | /
+30.9.2023, 22:40:14 - INFO - Req was made | /
+30.9.2023, 22:40:15 - INFO - Req was made | /
+30.9.2023, 22:40:16 - INFO - Req was made | /
+30.9.2023, 22:40:16 - INFO - Req was made | /
+30.9.2023, 22:56:46 - INFO - Req was made | /
+30.9.2023, 22:56:46 - INFO - Req was made | /
+30.9.2023, 22:58:21 - INFO - Req was made | /
+30.9.2023, 22:58:22 - INFO - Req was made | /
+30.9.2023, 23:12:05 - INFO - Req was made | /
+30.9.2023, 23:12:06 - INFO - Req was made | /
+30.9.2023, 23:13:39 - INFO - Req was made | /
+30.9.2023, 23:13:39 - INFO - Req was made | /
+30.9.2023, 23:14:13 - DEBUG - auth.service - signup with username: shalom, fullname: shalom
+30.9.2023, 23:14:13 - DEBUG - auth.route - new account created: {"username":"shalom","password":"$2b$10$rAFofoFzU8XaNstmhAgY2OyMkUkBR3FzVvzD4sa1DUljr/j3xL4xC","fullname":"shalom","isAdmin":false,"_id":"65188195c08b7c3652327fe6"}
+30.9.2023, 23:14:13 - DEBUG - auth.service - login with username: shalom
+30.9.2023, 23:14:20 - INFO - Req was made | /
+30.9.2023, 23:14:21 - INFO - Req was made | /
+30.9.2023, 23:14:54 - INFO - Req was made | /
+30.9.2023, 23:14:54 - INFO - Req was made | /
+30.9.2023, 23:15:06 - DEBUG - auth.service - login with username: admin
+30.9.2023, 23:15:06 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 23:15:10 - INFO - Req was made | /
+30.9.2023, 23:15:10 - INFO - Req was made | /
+30.9.2023, 23:15:19 - INFO - Req was made | /
+30.9.2023, 23:15:19 - INFO - Req was made | /
+30.9.2023, 23:15:34 - INFO - Req was made | /
+30.9.2023, 23:15:34 - INFO - Req was made | /
+30.9.2023, 23:16:12 - INFO - Req was made | /
+30.9.2023, 23:16:13 - INFO - Req was made | /
+30.9.2023, 23:16:17 - INFO - Req was made | /
+30.9.2023, 23:16:17 - INFO - Req was made | /
+30.9.2023, 23:16:26 - INFO - Req was made | /
+30.9.2023, 23:16:26 - INFO - Req was made | /
+30.9.2023, 23:16:29 - INFO - Req was made | /
+30.9.2023, 23:16:30 - INFO - Req was made | /
+30.9.2023, 23:17:17 - DEBUG - auth.service - login with username: admin
+30.9.2023, 23:17:17 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 23:21:38 - INFO - Req was made | /
+30.9.2023, 23:21:38 - INFO - Req was made | /
+30.9.2023, 23:21:41 - INFO - Req was made | /
+30.9.2023, 23:21:41 - INFO - Req was made | /
+30.9.2023, 23:25:23 - DEBUG - auth.service - login with username: admin
+30.9.2023, 23:25:23 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 23:46:29 - DEBUG - auth.service - login with username: admin
+30.9.2023, 23:46:29 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 23:47:22 - DEBUG - auth.service - login with username: admin
+30.9.2023, 23:47:22 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
