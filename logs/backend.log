@@ -2286,3 +2286,121 @@
 1.10.2023, 22:49:26 - INFO - Req was made | /
 1.10.2023, 22:49:27 - INFO - Req was made | /
 1.10.2023, 22:49:40 - INFO - Req was made | /
+1.10.2023, 22:58:52 - INFO - server.js loaded...
+1.10.2023, 22:58:52 - INFO - Server is running on port: 3030
+1.10.2023, 22:58:53 - INFO - Req was made | /
+1.10.2023, 23:00:32 - INFO - Req was made | /
+1.10.2023, 23:00:34 - INFO - Req was made | /
+1.10.2023, 23:00:35 - INFO - Req was made | /
+1.10.2023, 23:01:05 - INFO - server.js loaded...
+1.10.2023, 23:01:05 - INFO - Server is running on port: 3030
+1.10.2023, 23:01:37 - INFO - Req was made | /
+1.10.2023, 23:01:51 - INFO - Req was made | /
+1.10.2023, 23:01:51 - INFO - Req was made | /
+1.10.2023, 23:01:54 - INFO - Req was made | /
+1.10.2023, 23:01:55 - INFO - Req was made | /
+1.10.2023, 23:01:57 - INFO - Req was made | /
+1.10.2023, 23:02:01 - INFO - Req was made | /
+1.10.2023, 23:02:01 - INFO - Req was made | /
+1.10.2023, 23:02:04 - INFO - Req was made | /
+1.10.2023, 23:02:04 - INFO - Req was made | /
+1.10.2023, 23:09:55 - INFO - server.js loaded...
+1.10.2023, 23:09:55 - INFO - Server is running on port: 3030
+1.10.2023, 23:09:55 - INFO - server.js loaded...
+1.10.2023, 23:09:55 - INFO - Server is running on port: 3030
+1.10.2023, 23:10:12 - INFO - Req was made | /
+1.10.2023, 23:10:12 - INFO - Req was made | /
+1.10.2023, 23:10:13 - INFO - Req was made | /
+1.10.2023, 23:10:13 - INFO - Req was made | /
+1.10.2023, 23:10:13 - INFO - Req was made | /
+1.10.2023, 23:10:13 - INFO - Req was made | /
+1.10.2023, 23:10:17 - INFO - server.js loaded...
+1.10.2023, 23:10:17 - INFO - Server is running on port: 3030
+1.10.2023, 23:10:19 - INFO - Req was made | /
+1.10.2023, 23:10:19 - INFO - Req was made | /
+1.10.2023, 23:10:20 - INFO - Req was made | /
+1.10.2023, 23:10:20 - INFO - Req was made | /
+1.10.2023, 23:10:20 - INFO - Req was made | /
+1.10.2023, 23:10:21 - INFO - Req was made | /
+1.10.2023, 23:10:47 - INFO - server.js loaded...
+1.10.2023, 23:10:47 - INFO - Server is running on port: 3030
+1.10.2023, 23:10:47 - INFO - server.js loaded...
+1.10.2023, 23:10:47 - INFO - Server is running on port: 3030
+1.10.2023, 23:11:05 - INFO - server.js loaded...
+1.10.2023, 23:11:05 - INFO - Server is running on port: 3030
+1.10.2023, 23:11:06 - INFO - server.js loaded...
+1.10.2023, 23:11:06 - INFO - Server is running on port: 3030
+1.10.2023, 23:11:26 - INFO - server.js loaded...
+1.10.2023, 23:11:26 - INFO - Server is running on port: 3030
+1.10.2023, 23:11:26 - INFO - server.js loaded...
+1.10.2023, 23:11:26 - INFO - Server is running on port: 3030
+1.10.2023, 23:11:28 - INFO - server.js loaded...
+1.10.2023, 23:11:28 - INFO - Server is running on port: 3030
+1.10.2023, 23:11:47 - INFO - Req was made | /
+1.10.2023, 23:11:47 - INFO - Req was made | /
+1.10.2023, 23:13:07 - INFO - server.js loaded...
+1.10.2023, 23:13:07 - INFO - Server is running on port: 3030
+1.10.2023, 23:13:24 - INFO - server.js loaded...
+1.10.2023, 23:13:24 - INFO - Server is running on port: 3030
+1.10.2023, 23:13:25 - INFO - server.js loaded...
+1.10.2023, 23:13:25 - INFO - Server is running on port: 3030
+1.10.2023, 23:13:25 - INFO - server.js loaded...
+1.10.2023, 23:13:25 - INFO - Server is running on port: 3030
+1.10.2023, 23:23:04 - INFO - server.js loaded...
+1.10.2023, 23:23:04 - INFO - Server is running on port: 3030
+1.10.2023, 23:24:50 - INFO - server.js loaded...
+1.10.2023, 23:24:50 - INFO - Server is running on port: 3030
+1.10.2023, 23:24:51 - INFO - server.js loaded...
+1.10.2023, 23:24:51 - INFO - Server is running on port: 3030
+1.10.2023, 23:25:07 - INFO - server.js loaded...
+1.10.2023, 23:25:07 - INFO - Server is running on port: 3030
+1.10.2023, 23:25:15 - INFO - server.js loaded...
+1.10.2023, 23:25:15 - INFO - Server is running on port: 3030
+1.10.2023, 23:25:20 - INFO - Req was made | /
+1.10.2023, 23:25:20 - ERROR - Cannot Connect to DB | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:20 - ERROR - Failed to get Mongo collection | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:20 - ERROR - cannot find toys | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:20 - INFO - Req was made | /
+1.10.2023, 23:25:20 - ERROR - Cannot Connect to DB | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:20 - ERROR - cannot find toys | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:20 - ERROR - Failed to get Mongo collection | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:21 - INFO - Req was made | /
+1.10.2023, 23:25:21 - ERROR - Cannot Connect to DB | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:21 - ERROR - Failed to get Mongo collection | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:21 - ERROR - cannot find toys | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:21 - INFO - Req was made | /
+1.10.2023, 23:25:21 - ERROR - Cannot Connect to DB | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:21 - ERROR - Failed to get Mongo collection | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:21 - ERROR - cannot find toys | MongoParseError: URI malformed, cannot be parsed
+1.10.2023, 23:25:26 - INFO - server.js loaded...
+1.10.2023, 23:25:26 - INFO - Server is running on port: 3030
+1.10.2023, 23:25:26 - INFO - server.js loaded...
+1.10.2023, 23:25:26 - INFO - Server is running on port: 3030
+1.10.2023, 23:25:29 - INFO - Req was made | /
+1.10.2023, 23:25:30 - INFO - Req was made | /
+1.10.2023, 23:25:30 - INFO - Req was made | /
+1.10.2023, 23:25:31 - INFO - Req was made | /
+1.10.2023, 23:42:42 - INFO - server.js loaded...
+1.10.2023, 23:42:42 - INFO - Server is running on port: 3030
+1.10.2023, 23:43:08 - INFO - server.js loaded...
+1.10.2023, 23:43:08 - INFO - Server is running on port: 3030
+1.10.2023, 23:43:26 - INFO - server.js loaded...
+1.10.2023, 23:43:26 - INFO - Server is running on port: 3030
+1.10.2023, 23:43:28 - INFO - server.js loaded...
+1.10.2023, 23:43:28 - INFO - Server is running on port: 3030
+1.10.2023, 23:43:32 - INFO - Req was made | /
+1.10.2023, 23:43:33 - INFO - Req was made | /
+1.10.2023, 23:43:34 - INFO - Req was made | /
+1.10.2023, 23:43:39 - INFO - Req was made | /
+1.10.2023, 23:43:39 - INFO - Req was made | /
+1.10.2023, 23:43:41 - INFO - Req was made | /
+1.10.2023, 23:43:47 - INFO - Req was made | /
+1.10.2023, 23:43:56 - INFO - Req was made | /
+1.10.2023, 23:44:25 - INFO - Req was made | /
+1.10.2023, 23:44:25 - INFO - Req was made | /
+1.10.2023, 23:44:28 - INFO - Req was made | /
+1.10.2023, 23:44:29 - INFO - Req was made | /
+1.10.2023, 23:44:47 - INFO - Req was made | /
+1.10.2023, 23:44:48 - INFO - Req was made | /
+1.10.2023, 23:44:51 - INFO - Req was made | /
+1.10.2023, 23:44:51 - INFO - Req was made | /

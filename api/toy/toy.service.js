@@ -8,7 +8,7 @@ import { logger } from '../../services/logger.service.js'
 import { log } from 'console'
 
 const labels = ['On wheels', 'Box game', 'Art', 'Baby', 'Doll', 'Puzzle', 'Outdoor', 'Battery Powered']
-const imgs = ["https://lumiere-a.akamaihd.net/v1/images/open-uri20150422-20810-a07syh_9331bd0a.jpeg?region=0,0,450,450",
+const imgs = ["https://res-console.cloudinary.com/dpwmxprpp/thumbnails/v1/image/upload/v1696190689/YnV6el9jZWh0cG4=/grid_landscape",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-V_EzNRxAhsJvumlIKm4w-VXEpjqfN_cEFg&usqp=CAU", 
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4tvVBYdCfyiAcTR0W7AyN1wa6LFQQwi9UzhjKwnZFz_ZkX3T0PpZ4-B10C2UrkohaM3Q&usqp=CAU",
 "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBD0se7qm2IxwPGeUuwamEI18mVPz_H8HUww&usqp=CAU",
