@@ -1786,3 +1786,13 @@
 30.9.2023, 23:46:29 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
 30.9.2023, 23:47:22 - DEBUG - auth.service - login with username: admin
 30.9.2023, 23:47:22 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 23:55:22 - INFO - server.js loaded...
+30.9.2023, 23:55:22 - INFO - Server is running on port: 3030
+30.9.2023, 23:55:34 - DEBUG - auth.service - login with username: admin
+30.9.2023, 23:55:34 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+30.9.2023, 23:55:42 - INFO - Req was made | /
+30.9.2023, 23:55:43 - INFO - Req was made | /
+30.9.2023, 23:55:45 - INFO - Req was made | /
+30.9.2023, 23:55:45 - INFO - Req was made | /
+1.10.2023, 10:19:00 - INFO - server.js loaded...
+1.10.2023, 10:19:00 - INFO - Server is running on port: 3030
