@@ -2404,3 +2404,48 @@
 1.10.2023, 23:44:48 - INFO - Req was made | /
 1.10.2023, 23:44:51 - INFO - Req was made | /
 1.10.2023, 23:44:51 - INFO - Req was made | /
+1.10.2023, 23:52:53 - INFO - server.js loaded...
+1.10.2023, 23:52:53 - INFO - Server is running on port: 3030
+1.10.2023, 23:52:57 - INFO - server.js loaded...
+1.10.2023, 23:52:57 - INFO - Server is running on port: 3030
+1.10.2023, 23:53:07 - INFO - server.js loaded...
+1.10.2023, 23:53:07 - INFO - Server is running on port: 3030
+1.10.2023, 23:53:14 - INFO - Req was made | /
+1.10.2023, 23:53:15 - INFO - Req was made | /
+1.10.2023, 23:53:23 - INFO - server.js loaded...
+1.10.2023, 23:53:23 - INFO - Server is running on port: 3030
+1.10.2023, 23:53:24 - INFO - Req was made | /
+1.10.2023, 23:53:25 - INFO - Req was made | /
+1.10.2023, 23:53:26 - INFO - Req was made | /
+1.10.2023, 23:53:26 - INFO - Req was made | /
+1.10.2023, 23:53:26 - INFO - Req was made | /
+1.10.2023, 23:53:27 - INFO - Req was made | /
+1.10.2023, 23:53:27 - INFO - Req was made | /
+1.10.2023, 23:53:34 - INFO - Req was made | /
+1.10.2023, 23:53:35 - INFO - Req was made | /
+1.10.2023, 23:53:36 - INFO - Req was made | /
+1.10.2023, 23:53:41 - INFO - server.js loaded...
+1.10.2023, 23:53:41 - INFO - Server is running on port: 3030
+1.10.2023, 23:53:44 - INFO - server.js loaded...
+1.10.2023, 23:53:44 - INFO - Server is running on port: 3030
+1.10.2023, 23:53:44 - INFO - Req was made | /
+1.10.2023, 23:53:45 - ERROR - Cannot Connect to DB | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:45 - ERROR - Failed to get Mongo collection | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:45 - ERROR - cannot find toys | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:46 - INFO - Req was made | /
+1.10.2023, 23:53:47 - ERROR - Cannot Connect to DB | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:47 - ERROR - Failed to get Mongo collection | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:47 - ERROR - cannot find toys | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:47 - INFO - Req was made | /
+1.10.2023, 23:53:48 - ERROR - Cannot Connect to DB | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:48 - ERROR - Failed to get Mongo collection | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:48 - ERROR - cannot find toys | MongoError: bad auth : authentication failed
+1.10.2023, 23:53:50 - INFO - server.js loaded...
+1.10.2023, 23:53:50 - INFO - Server is running on port: 3030
+1.10.2023, 23:53:52 - INFO - server.js loaded...
+1.10.2023, 23:53:52 - INFO - Server is running on port: 3030
+1.10.2023, 23:54:11 - INFO - Req was made | /
+1.10.2023, 23:54:12 - INFO - Req was made | /
+1.10.2023, 23:54:19 - DEBUG - auth.service - login with username: admin
+1.10.2023, 23:54:19 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+1.10.2023, 23:54:24 - INFO - Req was made | /
