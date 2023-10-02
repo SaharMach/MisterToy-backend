@@ -3227,3 +3227,243 @@
 2.10.2023, 22:04:16 - INFO - Server is running on port: 3030
 2.10.2023, 22:04:16 - INFO - New connected socket [id: 8qeQaPZYgxmmYngNAAAB]
 2.10.2023, 22:04:17 - INFO - New connected socket [id: hVvhoEXkUsUIg2yiAAAD]
+2.10.2023, 22:11:48 - INFO - server.js loaded...
+2.10.2023, 22:11:48 - INFO - Server is running on port: 3030
+2.10.2023, 22:11:48 - INFO - New connected socket [id: 7AHxSMTRb1Fne9w_AAAB]
+2.10.2023, 22:11:52 - INFO - New connected socket [id: uh2GpR28dJR0cHW2AAAD]
+2.10.2023, 22:11:55 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:11:55 - INFO - New connected socket [id: 8dnar-eXowbcFbZ1AAAF]
+2.10.2023, 22:11:55 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 8dnar-eXowbcFbZ1AAAF]
+2.10.2023, 22:11:57 - INFO - Req was made | /
+2.10.2023, 22:12:14 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:12:15 - INFO - New connected socket [id: KkY2di6i8VZtEBQEAAAH]
+2.10.2023, 22:12:15 - INFO - Req was made | /
+2.10.2023, 22:12:15 - INFO - Req was made | /
+2.10.2023, 22:12:17 - INFO - Req was made | /
+2.10.2023, 22:12:21 - INFO - New chat msg from socket [id: 8dnar-eXowbcFbZ1AAAF], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:12:29 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:12:29 - INFO - New connected socket [id: LM1yfBPxGVDT3joAAAAJ]
+2.10.2023, 22:12:29 - INFO - Req was made | /
+2.10.2023, 22:12:34 - INFO - New chat msg from socket [id: 8dnar-eXowbcFbZ1AAAF], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:12:42 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:12:54 - INFO - New connected socket [id: IAR9vUAy1kW3y4-6AAAL]
+2.10.2023, 22:12:54 - INFO - Req was made | /
+2.10.2023, 22:12:59 - INFO - New chat msg from socket [id: IAR9vUAy1kW3y4-6AAAL], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:13:48 - INFO - Req was made | /
+2.10.2023, 22:13:53 - INFO - New chat msg from socket [id: IAR9vUAy1kW3y4-6AAAL], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:14:02 - DEBUG - auth.service - login with username: hey
+2.10.2023, 22:14:02 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+2.10.2023, 22:14:02 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: IAR9vUAy1kW3y4-6AAAL]
+2.10.2023, 22:14:04 - INFO - Req was made | /
+2.10.2023, 22:14:05 - INFO - Req was made | /
+2.10.2023, 22:14:05 - INFO - Req was made | /
+2.10.2023, 22:14:07 - INFO - Req was made | /
+2.10.2023, 22:14:08 - INFO - Req was made | /
+2.10.2023, 22:14:09 - INFO - Req was made | /
+2.10.2023, 22:14:11 - INFO - New chat msg from socket [id: IAR9vUAy1kW3y4-6AAAL], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:19:05 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:19:06 - INFO - New connected socket [id: gE-sXRJ7-tGhcXaTAAAN]
+2.10.2023, 22:19:07 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: gE-sXRJ7-tGhcXaTAAAN]
+2.10.2023, 22:19:07 - INFO - Req was made | /
+2.10.2023, 22:20:05 - INFO - Req was made | /
+2.10.2023, 22:20:05 - INFO - Req was made | /
+2.10.2023, 22:20:06 - INFO - Socket is leaving topic 651b03a42dcd69b29f97acb6 [id: 8dnar-eXowbcFbZ1AAAF]
+2.10.2023, 22:20:06 - INFO - Req was made | /
+2.10.2023, 22:20:11 - INFO - New chat msg from socket [id: 8dnar-eXowbcFbZ1AAAF], emitting to topic 651b0eba2dcd69b29f97acb9
+2.10.2023, 22:20:22 - INFO - Req was made | /
+2.10.2023, 22:20:22 - INFO - Req was made | /
+2.10.2023, 22:20:23 - INFO - Socket is leaving topic 651b03a42dcd69b29f97acb6 [id: gE-sXRJ7-tGhcXaTAAAN]
+2.10.2023, 22:20:23 - INFO - Req was made | /
+2.10.2023, 22:20:31 - INFO - New chat msg from socket [id: gE-sXRJ7-tGhcXaTAAAN], emitting to topic 651b0eba2dcd69b29f97acb9
+2.10.2023, 22:24:30 - INFO - Req was made | /
+2.10.2023, 22:24:30 - INFO - Req was made | /
+2.10.2023, 22:24:31 - INFO - Socket is leaving topic 651b0eba2dcd69b29f97acb9 [id: 8dnar-eXowbcFbZ1AAAF]
+2.10.2023, 22:24:31 - INFO - Req was made | /
+2.10.2023, 22:34:11 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:42:54 - INFO - server.js loaded...
+2.10.2023, 22:42:54 - INFO - Server is running on port: 3030
+2.10.2023, 22:42:56 - INFO - New connected socket [id: CJclvBpn2x4Lm6OgAAAB]
+2.10.2023, 22:44:19 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:44:21 - INFO - New connected socket [id: S6VB-sq94uoxx1TUAAAD]
+2.10.2023, 22:44:21 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: S6VB-sq94uoxx1TUAAAD]
+2.10.2023, 22:44:23 - INFO - Req was made | /
+2.10.2023, 22:44:35 - INFO - New connected socket [id: Ca0IxyPzOcc8uJU5AAAF]
+2.10.2023, 22:44:40 - DEBUG - auth.service - login with username: hey
+2.10.2023, 22:44:40 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+2.10.2023, 22:44:40 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: Ca0IxyPzOcc8uJU5AAAF]
+2.10.2023, 22:44:42 - INFO - Req was made | /
+2.10.2023, 22:44:43 - INFO - Req was made | /
+2.10.2023, 22:44:44 - INFO - Req was made | /
+2.10.2023, 22:47:07 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:47:07 - INFO - New connected socket [id: k727mwPkaUfeR8jHAAAH]
+2.10.2023, 22:47:07 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: k727mwPkaUfeR8jHAAAH]
+2.10.2023, 22:47:08 - INFO - Req was made | /
+2.10.2023, 22:51:45 - INFO - server.js loaded...
+2.10.2023, 22:51:45 - INFO - Server is running on port: 3030
+2.10.2023, 22:51:46 - INFO - New connected socket [id: Mbhz4MP5CoWJmpJ-AAAB]
+2.10.2023, 22:51:46 - INFO - New connected socket [id: Uust-kL8B6srI5nNAAAD]
+2.10.2023, 22:53:02 - INFO - server.js loaded...
+2.10.2023, 22:53:02 - INFO - Server is running on port: 3030
+2.10.2023, 22:53:03 - INFO - New connected socket [id: oN1PTRU7p6mQwVHgAAAB]
+2.10.2023, 22:53:03 - INFO - New connected socket [id: Yd6UU3INudiffo66AAAD]
+2.10.2023, 22:53:55 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:53:56 - INFO - New connected socket [id: jBRSxsGKrwX85CCeAAAF]
+2.10.2023, 22:53:56 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: jBRSxsGKrwX85CCeAAAF]
+2.10.2023, 22:53:57 - INFO - Req was made | /
+2.10.2023, 22:53:59 - INFO - sahar is typing... in socket [id: jBRSxsGKrwX85CCeAAAF]
+2.10.2023, 22:54:00 - INFO - sahar is typing... in socket [id: jBRSxsGKrwX85CCeAAAF]
+2.10.2023, 22:54:00 - INFO - sahar is typing... in socket [id: jBRSxsGKrwX85CCeAAAF]
+2.10.2023, 22:54:13 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:54:14 - INFO - New connected socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:54:14 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:54:14 - INFO - Req was made | /
+2.10.2023, 22:54:15 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:54:16 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:54:17 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:56:56 - INFO - sahar is typing... in socket [id: jBRSxsGKrwX85CCeAAAF]
+2.10.2023, 22:56:59 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:00 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:01 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:02 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:37 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:38 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:38 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:38 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:38 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:40 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:45 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:47 - INFO - hey is typing... in socket [id: PgeJjpt2kSmEETQCAAAH]
+2.10.2023, 22:57:50 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:57:50 - INFO - New connected socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:57:51 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:57:51 - INFO - Req was made | /
+2.10.2023, 22:57:54 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:57:54 - INFO - New connected socket [id: SJQdsFFMhJM3Ppf0AAAL]
+2.10.2023, 22:57:55 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: SJQdsFFMhJM3Ppf0AAAL]
+2.10.2023, 22:57:55 - INFO - Req was made | /
+2.10.2023, 22:57:56 - INFO - hey is typing... in socket [id: SJQdsFFMhJM3Ppf0AAAL]
+2.10.2023, 22:57:58 - INFO - hey is typing... in socket [id: SJQdsFFMhJM3Ppf0AAAL]
+2.10.2023, 22:57:58 - INFO - hey is typing... in socket [id: SJQdsFFMhJM3Ppf0AAAL]
+2.10.2023, 22:57:59 - INFO - hey is typing... in socket [id: SJQdsFFMhJM3Ppf0AAAL]
+2.10.2023, 22:58:13 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:13 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:14 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:14 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:15 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:15 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:41 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:42 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:42 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:43 - INFO - sahar is typing... in socket [id: J-i40FtTZpOyuy-WAAAJ]
+2.10.2023, 22:58:50 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:58:51 - INFO - New connected socket [id: lAxzUeh5uJs72FK3AAAN]
+2.10.2023, 22:58:51 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: lAxzUeh5uJs72FK3AAAN]
+2.10.2023, 22:58:51 - INFO - Req was made | /
+2.10.2023, 22:58:54 - INFO - sahar is typing... in socket [id: lAxzUeh5uJs72FK3AAAN]
+2.10.2023, 22:58:54 - INFO - sahar is typing... in socket [id: lAxzUeh5uJs72FK3AAAN]
+2.10.2023, 22:58:56 - INFO - sahar is typing... in socket [id: lAxzUeh5uJs72FK3AAAN]
+2.10.2023, 23:01:30 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 23:01:30 - INFO - New connected socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:01:31 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:01:31 - INFO - Req was made | /
+2.10.2023, 23:01:32 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 23:01:33 - INFO - New connected socket [id: 1-Xo6aqRtTZQ0xv4AAAR]
+2.10.2023, 23:01:33 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: 1-Xo6aqRtTZQ0xv4AAAR]
+2.10.2023, 23:01:33 - INFO - Req was made | /
+2.10.2023, 23:01:35 - INFO - hey is typing... in socket [id: 1-Xo6aqRtTZQ0xv4AAAR]
+2.10.2023, 23:02:23 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:02:25 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:02:26 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:31:30 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:31:31 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:31:31 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:31:31 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:31:32 - INFO - sahar is typing... in socket [id: WSe2pVcYMWc9opG_AAAP]
+2.10.2023, 23:31:38 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 23:31:39 - INFO - New connected socket [id: dcKCWn7wfkEM62gtAAAT]
+2.10.2023, 23:31:39 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: dcKCWn7wfkEM62gtAAAT]
+2.10.2023, 23:31:39 - INFO - Req was made | /
+2.10.2023, 23:31:42 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 23:31:43 - INFO - New connected socket [id: 5vVGcbOcZ2sl-S28AAAV]
+2.10.2023, 23:31:43 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: 5vVGcbOcZ2sl-S28AAAV]
+2.10.2023, 23:31:43 - INFO - Req was made | /
+2.10.2023, 23:31:44 - INFO - hey is typing... in socket [id: 5vVGcbOcZ2sl-S28AAAV]
+2.10.2023, 23:31:44 - INFO - hey is typing... in socket [id: 5vVGcbOcZ2sl-S28AAAV]
+2.10.2023, 23:31:45 - INFO - hey is typing... in socket [id: 5vVGcbOcZ2sl-S28AAAV]
+2.10.2023, 23:31:45 - INFO - hey is typing... in socket [id: 5vVGcbOcZ2sl-S28AAAV]
+2.10.2023, 23:33:02 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 23:33:02 - INFO - New connected socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:02 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:03 - INFO - Req was made | /
+2.10.2023, 23:33:04 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 23:33:04 - INFO - New connected socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:04 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:05 - INFO - Req was made | /
+2.10.2023, 23:33:06 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:07 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:07 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:07 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:09 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:11 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:12 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:12 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:12 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:28 - INFO - Req was made | /
+2.10.2023, 23:33:28 - INFO - Req was made | /
+2.10.2023, 23:33:29 - INFO - Socket is leaving topic 651b03a42dcd69b29f97acb6 [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:29 - INFO - Req was made | /
+2.10.2023, 23:33:32 - INFO - Req was made | /
+2.10.2023, 23:33:32 - INFO - Req was made | /
+2.10.2023, 23:33:33 - INFO - Socket is leaving topic 651b03a42dcd69b29f97acb6 [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:34 - INFO - Req was made | /
+2.10.2023, 23:33:44 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:44 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:44 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:44 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:51 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:51 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:52 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:52 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:52 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:53 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:54 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:55 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:33:58 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:59 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:59 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:59 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:59 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:59 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:33:59 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:08 - INFO - Req was made | /
+2.10.2023, 23:34:08 - INFO - Req was made | /
+2.10.2023, 23:34:09 - INFO - Socket is leaving topic 651b0eba2dcd69b29f97acb9 [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:09 - INFO - Req was made | /
+2.10.2023, 23:34:12 - INFO - Req was made | /
+2.10.2023, 23:34:12 - INFO - Req was made | /
+2.10.2023, 23:34:13 - INFO - Socket is leaving topic 651b0eba2dcd69b29f97acb9 [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:34:13 - INFO - Req was made | /
+2.10.2023, 23:34:15 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:34:15 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:34:15 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:34:16 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:16 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:17 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:17 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:17 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:34:17 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:35:54 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:35:54 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:35:58 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:35:58 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:35:58 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:35:58 - INFO - sahar is typing... in socket [id: VkfC-I5SS8X6oLWrAAAX]
+2.10.2023, 23:37:18 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:37:18 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:37:19 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:37:20 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:37:20 - INFO - hey is typing... in socket [id: ryPvLinOH32Rusn5AAAZ]
+2.10.2023, 23:39:52 - INFO - server.js loaded...
+2.10.2023, 23:39:52 - INFO - Server is running on port: 3030
+2.10.2023, 23:39:53 - INFO - New connected socket [id: f4Rladedd3UHpO9MAAAB]
+2.10.2023, 23:39:53 - INFO - New connected socket [id: IYSBFdSDNYXzgeEHAAAD]

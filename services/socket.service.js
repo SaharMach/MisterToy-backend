@@ -43,6 +43,12 @@ export function setupSocketAPI(http) {
             logger.info(`Removing socket.userId for socket [id: ${socket.id}]`)
             delete socket.userId
         })
+        socket.on('typing', (username) => {
+            logger.info(`${username} is typing... in socket [id: ${socket.id}]`)
+            gIo.to(socket.myTopic).emit('user-typing', username);
+        });
+        
+        
 
     })
 }
