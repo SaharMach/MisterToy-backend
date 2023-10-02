@@ -2491,3 +2491,739 @@
 2.10.2023, 14:22:42 - INFO - Req was made | /
 2.10.2023, 14:22:46 - INFO - Req was made | /
 2.10.2023, 14:23:03 - INFO - Req was made | /
+2.10.2023, 16:02:59 - INFO - server.js loaded...
+2.10.2023, 16:02:59 - INFO - Server is running on port: 3030
+2.10.2023, 16:21:27 - INFO - server.js loaded...
+2.10.2023, 16:21:27 - INFO - Server is running on port: 3030
+2.10.2023, 16:28:00 - INFO - Req was made | /
+2.10.2023, 16:28:01 - INFO - Req was made | /
+2.10.2023, 16:29:09 - INFO - Req was made | /
+2.10.2023, 16:29:10 - INFO - Req was made | /
+2.10.2023, 16:29:15 - INFO - Req was made | /
+2.10.2023, 16:29:35 - INFO - Req was made | /
+2.10.2023, 16:31:32 - INFO - Req was made | /
+2.10.2023, 16:35:55 - INFO - Req was made | /
+2.10.2023, 16:37:33 - INFO - Req was made | /
+2.10.2023, 16:47:35 - DEBUG - auth.service - login with username: admin
+2.10.2023, 16:47:35 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 16:47:39 - INFO - Req was made | /
+2.10.2023, 16:47:40 - INFO - Req was made | /
+2.10.2023, 16:47:40 - INFO - Req was made | /
+2.10.2023, 16:47:41 - INFO - Req was made | /
+2.10.2023, 16:51:55 - DEBUG - auth.service - login with username: admin
+2.10.2023, 16:51:55 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 16:52:00 - INFO - Req was made | /
+2.10.2023, 16:52:00 - INFO - Req was made | /
+2.10.2023, 16:52:04 - INFO - Req was made | /
+2.10.2023, 17:00:22 - INFO - server.js loaded...
+2.10.2023, 17:00:22 - INFO - Server is running on port: 3030
+2.10.2023, 17:00:22 - INFO - New connected socket [id: TlAPus_LMjE-VzObAAAC]
+2.10.2023, 17:00:22 - INFO - New connected socket [id: ZwMKsMGSqGTdmsdKAAAD]
+2.10.2023, 17:00:23 - INFO - New connected socket [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:00:23 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:00:23 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:00:24 - INFO - New connected socket [id: S7mF6AKuiW1LRdILAAAH]
+2.10.2023, 17:00:26 - INFO - New connected socket [id: -uYuFSA4xF-Brz1ZAAAJ]
+2.10.2023, 17:00:54 - INFO - New connected socket [id: H28oJ2msgrmM5sBcAAAL]
+2.10.2023, 17:00:55 - INFO - Req was made | /
+2.10.2023, 17:01:00 - DEBUG - auth.service - login with username: admin
+2.10.2023, 17:01:00 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 17:01:04 - INFO - Req was made | /
+2.10.2023, 17:01:05 - INFO - Req was made | /
+2.10.2023, 17:01:06 - INFO - Req was made | /
+2.10.2023, 17:01:07 - INFO - Req was made | /
+2.10.2023, 17:01:08 - INFO - Req was made | /
+2.10.2023, 17:01:08 - INFO - Req was made | /
+2.10.2023, 17:01:25 - DEBUG - auth.service - login with username: hey
+2.10.2023, 17:01:25 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+2.10.2023, 17:01:28 - INFO - Req was made | /
+2.10.2023, 17:01:28 - INFO - Req was made | /
+2.10.2023, 17:01:29 - INFO - Req was made | /
+2.10.2023, 17:01:30 - INFO - Req was made | /
+2.10.2023, 17:01:30 - INFO - Req was made | /
+2.10.2023, 17:01:32 - INFO - Req was made | /
+2.10.2023, 17:01:34 - INFO - New chat msg from socket [id: H28oJ2msgrmM5sBcAAAL], emitting to topic Love
+2.10.2023, 17:01:42 - INFO - New chat msg from socket [id: H28oJ2msgrmM5sBcAAAL], emitting to topic Love
+2.10.2023, 17:01:48 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:02:17 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:02:19 - INFO - Socket is leaving topic Love [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:02:20 - INFO - Socket is leaving topic Politics [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:02:20 - INFO - Socket is leaving topic Love [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:02:26 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Politics
+2.10.2023, 17:02:27 - INFO - Socket is leaving topic Politics [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:02:28 - INFO - Socket is leaving topic Love [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:02:28 - INFO - Socket is leaving topic Politics [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:02:29 - INFO - Socket is leaving topic Love [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:14:23 - INFO - Req was made | /
+2.10.2023, 17:14:23 - INFO - Req was made | /
+2.10.2023, 17:14:24 - INFO - Socket is leaving topic Politics [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:14:24 - INFO - Req was made | /
+2.10.2023, 17:14:26 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:14:28 - INFO - Req was made | /
+2.10.2023, 17:14:29 - INFO - Req was made | /
+2.10.2023, 17:14:29 - INFO - Req was made | /
+2.10.2023, 17:14:30 - INFO - Req was made | /
+2.10.2023, 17:14:32 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:20:21 - INFO - New chat msg from socket [id: twsKmTWYIQerhPrIAAAF], emitting to topic Love
+2.10.2023, 17:20:23 - INFO - Socket is leaving topic Love [id: twsKmTWYIQerhPrIAAAF]
+2.10.2023, 17:25:35 - INFO - New connected socket [id: w9m0ELhJU-GbfvyLAAAN]
+2.10.2023, 17:25:43 - DEBUG - auth.service - login with username: sahar
+2.10.2023, 17:25:44 - INFO - User login:  | {"_id":"6516887885b3ba42aa1f3c48","username":"sahar","fullname":"saharm","isAdmin":false}
+2.10.2023, 17:25:46 - INFO - Req was made | /
+2.10.2023, 17:25:47 - INFO - Req was made | /
+2.10.2023, 17:25:49 - INFO - Req was made | /
+2.10.2023, 17:25:52 - INFO - Socket is leaving topic Love [id: w9m0ELhJU-GbfvyLAAAN]
+2.10.2023, 17:26:11 - INFO - New chat msg from socket [id: w9m0ELhJU-GbfvyLAAAN], emitting to topic Politics
+2.10.2023, 17:28:42 - INFO - New connected socket [id: 5kTEODC2CXss-fGSAAAP]
+2.10.2023, 17:28:46 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:28:46 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:28:46 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:28:46 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:28:47 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:28:49 - INFO - New connected socket [id: g4RjPzky2He8HCCzAAAR]
+2.10.2023, 17:28:49 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:28:53 - DEBUG - auth.service - login with username: admin
+2.10.2023, 17:28:53 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 17:29:04 - INFO - Req was made | /
+2.10.2023, 17:29:05 - INFO - Req was made | /
+2.10.2023, 17:29:06 - INFO - Req was made | /
+2.10.2023, 17:29:15 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:29:20 - INFO - Socket is leaving topic Love [id: 5kTEODC2CXss-fGSAAAP]
+2.10.2023, 17:31:32 - INFO - New connected socket [id: rDcqN0JkepP7ghCeAAAT]
+2.10.2023, 17:31:32 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: rDcqN0JkepP7ghCeAAAT]
+2.10.2023, 17:31:35 - INFO - New connected socket [id: HCSwxjvPPCFGrnEHAAAV]
+2.10.2023, 17:31:35 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: HCSwxjvPPCFGrnEHAAAV]
+2.10.2023, 17:31:36 - INFO - New connected socket [id: icn-PFUddutY-F3FAAAX]
+2.10.2023, 17:31:36 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: icn-PFUddutY-F3FAAAX]
+2.10.2023, 17:34:56 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:34:56 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:34:56 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:34:56 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:34:56 - INFO - New connected socket [id: 3UXQxEl2nT5Va7c6AAAZ]
+2.10.2023, 17:34:56 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 3UXQxEl2nT5Va7c6AAAZ]
+2.10.2023, 17:34:57 - INFO - Req was made | /
+2.10.2023, 17:35:19 - INFO - Socket is leaving topic Love [id: 3UXQxEl2nT5Va7c6AAAZ]
+2.10.2023, 17:35:22 - INFO - New chat msg from socket [id: 3UXQxEl2nT5Va7c6AAAZ], emitting to topic Politics
+2.10.2023, 17:36:41 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:36:41 - INFO - New connected socket [id: fflpsVCFT2IzNaUfAAAb]
+2.10.2023, 17:36:41 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: fflpsVCFT2IzNaUfAAAb]
+2.10.2023, 17:36:42 - INFO - Req was made | /
+2.10.2023, 17:36:43 - INFO - Socket is leaving topic Love [id: fflpsVCFT2IzNaUfAAAb]
+2.10.2023, 17:36:45 - INFO - New chat msg from socket [id: fflpsVCFT2IzNaUfAAAb], emitting to topic Politics
+2.10.2023, 17:37:03 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:37:12 - INFO - New connected socket [id: bqq4G-tXO6W4Mo8CAAAd]
+2.10.2023, 17:37:12 - INFO - Req was made | /
+2.10.2023, 17:37:23 - DEBUG - auth.service - login with username: sahar
+2.10.2023, 17:37:23 - INFO - User login:  | {"_id":"6516887885b3ba42aa1f3c48","username":"sahar","fullname":"saharm","isAdmin":false}
+2.10.2023, 17:37:27 - INFO - Req was made | /
+2.10.2023, 17:37:28 - INFO - Req was made | /
+2.10.2023, 17:37:29 - INFO - Req was made | /
+2.10.2023, 17:37:30 - INFO - Socket is leaving topic Love [id: bqq4G-tXO6W4Mo8CAAAd]
+2.10.2023, 17:37:32 - INFO - New chat msg from socket [id: bqq4G-tXO6W4Mo8CAAAd], emitting to topic Politics
+2.10.2023, 17:37:35 - INFO - New chat msg from socket [id: bqq4G-tXO6W4Mo8CAAAd], emitting to topic Politics
+2.10.2023, 17:47:43 - INFO - Socket is leaving topic Politics [id: fflpsVCFT2IzNaUfAAAb]
+2.10.2023, 17:48:44 - INFO - New chat msg from socket [id: fflpsVCFT2IzNaUfAAAb], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 17:48:53 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:48:54 - INFO - New connected socket [id: y21k6F_XjcBLrw5ZAAAf]
+2.10.2023, 17:48:54 - INFO - Setting socket.userId = 6516887885b3ba42aa1f3c48 for socket [id: y21k6F_XjcBLrw5ZAAAf]
+2.10.2023, 17:48:54 - INFO - Req was made | /
+2.10.2023, 17:48:56 - INFO - Socket is leaving topic Love [id: y21k6F_XjcBLrw5ZAAAf]
+2.10.2023, 17:48:59 - INFO - New chat msg from socket [id: y21k6F_XjcBLrw5ZAAAf], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 17:49:02 - INFO - New chat msg from socket [id: y21k6F_XjcBLrw5ZAAAf], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 17:52:49 - INFO - New connected socket [id: HLTWHpVeiT1c5kCBAAAh]
+2.10.2023, 17:52:50 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: HLTWHpVeiT1c5kCBAAAh]
+2.10.2023, 17:52:50 - INFO - New connected socket [id: ciq56XHMX-7gbBkYAAAj]
+2.10.2023, 17:52:50 - INFO - Setting socket.userId = 6516887885b3ba42aa1f3c48 for socket [id: ciq56XHMX-7gbBkYAAAj]
+2.10.2023, 17:52:50 - INFO - New connected socket [id: yH5FO0-X-TmyDQxZAAAm]
+2.10.2023, 17:52:50 - INFO - New connected socket [id: QiNt0OE6XQ-249KzAAAn]
+2.10.2023, 17:52:50 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: yH5FO0-X-TmyDQxZAAAm]
+2.10.2023, 17:52:50 - INFO - Setting socket.userId = 6516887885b3ba42aa1f3c48 for socket [id: QiNt0OE6XQ-249KzAAAn]
+2.10.2023, 17:53:26 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:53:26 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:53:26 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 17:53:27 - INFO - New connected socket [id: 0_tbfbaOjE8nZP6kAAAp]
+2.10.2023, 17:53:27 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 0_tbfbaOjE8nZP6kAAAp]
+2.10.2023, 17:53:27 - INFO - Req was made | /
+2.10.2023, 17:53:30 - INFO - New chat msg from socket [id: 0_tbfbaOjE8nZP6kAAAp], emitting to topic Love
+2.10.2023, 17:53:34 - INFO - Socket is leaving topic Love [id: 0_tbfbaOjE8nZP6kAAAp]
+2.10.2023, 17:53:36 - INFO - New chat msg from socket [id: 0_tbfbaOjE8nZP6kAAAp], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 17:55:05 - INFO - New chat msg from socket [id: QiNt0OE6XQ-249KzAAAn], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 17:55:11 - INFO - Req was made | /
+2.10.2023, 17:55:13 - INFO - Req was made | /
+2.10.2023, 17:55:13 - INFO - Req was made | /
+2.10.2023, 17:55:15 - INFO - Socket is leaving topic 65184c44c18079268f93a5ee [id: QiNt0OE6XQ-249KzAAAn]
+2.10.2023, 17:55:15 - INFO - Req was made | /
+2.10.2023, 18:19:45 - INFO - New chat msg from socket [id: 0_tbfbaOjE8nZP6kAAAp], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 18:25:41 - INFO - New chat msg from socket [id: 0_tbfbaOjE8nZP6kAAAp], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 18:33:07 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 18:33:07 - INFO - New connected socket [id: 8ufhp-w6voq6bkN0AAAr]
+2.10.2023, 18:33:07 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 8ufhp-w6voq6bkN0AAAr]
+2.10.2023, 18:33:07 - INFO - Req was made | /
+2.10.2023, 18:33:08 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 18:33:09 - INFO - New connected socket [id: n4Dr0u-prqX2DC8mAAAt]
+2.10.2023, 18:33:09 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: n4Dr0u-prqX2DC8mAAAt]
+2.10.2023, 18:33:09 - INFO - Req was made | /
+2.10.2023, 18:33:16 - INFO - New chat msg from socket [id: n4Dr0u-prqX2DC8mAAAt], emitting to topic Love
+2.10.2023, 18:33:20 - INFO - New chat msg from socket [id: n4Dr0u-prqX2DC8mAAAt], emitting to topic Love
+2.10.2023, 18:33:23 - INFO - New chat msg from socket [id: n4Dr0u-prqX2DC8mAAAt], emitting to topic Love
+2.10.2023, 18:34:13 - INFO - Socket is leaving topic Love [id: n4Dr0u-prqX2DC8mAAAt]
+2.10.2023, 18:34:34 - INFO - New chat msg from socket [id: n4Dr0u-prqX2DC8mAAAt], emitting to topic 65184c44c18079268f93a5ee
+2.10.2023, 18:35:39 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 18:35:39 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 18:35:39 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 18:35:39 - INFO - New connected socket [id: ONXjI8fRmbFhUqQ1AAAv]
+2.10.2023, 18:35:39 - INFO - Setting socket.userId = 6516887885b3ba42aa1f3c48 for socket [id: ONXjI8fRmbFhUqQ1AAAv]
+2.10.2023, 18:35:40 - INFO - Req was made | /
+2.10.2023, 18:35:43 - INFO - New chat msg from socket [id: ONXjI8fRmbFhUqQ1AAAv], emitting to topic Love
+2.10.2023, 18:59:03 - INFO - Socket is leaving topic 65184c44c18079268f93a5ee [id: n4Dr0u-prqX2DC8mAAAt]
+2.10.2023, 19:03:52 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:03:53 - INFO - New connected socket [id: vcmK7E3cTE993oRrAAAx]
+2.10.2023, 19:03:53 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: vcmK7E3cTE993oRrAAAx]
+2.10.2023, 19:03:53 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:03:53 - INFO - New connected socket [id: 80l0XKLfQ6vFh1G_AAAz]
+2.10.2023, 19:03:53 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 80l0XKLfQ6vFh1G_AAAz]
+2.10.2023, 19:03:54 - INFO - Req was made | /
+2.10.2023, 19:03:54 - INFO - Req was made | /
+2.10.2023, 19:03:55 - INFO - Req was made | /
+2.10.2023, 19:03:56 - INFO - Req was made | /
+2.10.2023, 19:03:57 - INFO - Req was made | /
+2.10.2023, 19:07:30 - INFO - server.js loaded...
+2.10.2023, 19:07:30 - INFO - Server is running on port: 3030
+2.10.2023, 19:07:30 - INFO - server.js loaded...
+2.10.2023, 19:07:30 - INFO - Server is running on port: 3030
+2.10.2023, 19:07:31 - INFO - New connected socket [id: e9iDbKWlYCzgiwp4AAAB]
+2.10.2023, 19:07:31 - INFO - New connected socket [id: 0Yu_76dQNyPAAtIwAAAD]
+2.10.2023, 19:14:12 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:14:12 - INFO - New connected socket [id: 6JfH6MUoAUd0fLF7AAAF]
+2.10.2023, 19:14:13 - INFO - Req was made | /
+2.10.2023, 19:14:13 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 6JfH6MUoAUd0fLF7AAAF]
+2.10.2023, 19:14:14 - INFO - Req was made | /
+2.10.2023, 19:14:59 - INFO - server.js loaded...
+2.10.2023, 19:14:59 - INFO - Server is running on port: 3030
+2.10.2023, 19:14:59 - INFO - New connected socket [id: 52FGX5akIIqHBpjTAAAB]
+2.10.2023, 19:14:59 - INFO - New connected socket [id: 9a7NMf4SdDmpJKdKAAAD]
+2.10.2023, 19:15:20 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:15:20 - INFO - New connected socket [id: 47X3ZjKH6sQObodLAAAF]
+2.10.2023, 19:15:20 - INFO - Req was made | /
+2.10.2023, 19:15:20 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 47X3ZjKH6sQObodLAAAF]
+2.10.2023, 19:15:22 - INFO - Req was made | /
+2.10.2023, 19:15:33 - INFO - Req was made | /
+2.10.2023, 19:15:33 - INFO - Req was made | /
+2.10.2023, 19:15:34 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:15:34 - INFO - New connected socket [id: 32NVVBKzhZXWI1tRAAAH]
+2.10.2023, 19:15:35 - INFO - Req was made | /
+2.10.2023, 19:15:35 - INFO - Setting socket.userId = 6516887885b3ba42aa1f3c48 for socket [id: 32NVVBKzhZXWI1tRAAAH]
+2.10.2023, 19:15:35 - INFO - Req was made | /
+2.10.2023, 19:15:39 - INFO - Req was made | /
+2.10.2023, 19:15:56 - INFO - Req was made | /
+2.10.2023, 19:15:56 - INFO - Req was made | /
+2.10.2023, 19:16:37 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:16:37 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:16:38 - INFO - New connected socket [id: PrCHMOs8ZzZskmHsAAAJ]
+2.10.2023, 19:16:38 - INFO - Req was made | /
+2.10.2023, 19:16:38 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: PrCHMOs8ZzZskmHsAAAJ]
+2.10.2023, 19:16:38 - INFO - New connected socket [id: IJb-2NpiqLsERgspAAAL]
+2.10.2023, 19:16:38 - INFO - Setting socket.userId = 6516887885b3ba42aa1f3c48 for socket [id: IJb-2NpiqLsERgspAAAL]
+2.10.2023, 19:16:38 - INFO - Req was made | /
+2.10.2023, 19:16:38 - INFO - Req was made | /
+2.10.2023, 19:16:39 - INFO - Req was made | /
+2.10.2023, 19:19:35 - INFO - server.js loaded...
+2.10.2023, 19:19:35 - INFO - Server is running on port: 3030
+2.10.2023, 19:19:35 - INFO - New connected socket [id: 1BCk3AxRBv904EgBAAAB]
+2.10.2023, 19:19:35 - INFO - New connected socket [id: 5DIoRh8eTeS6g9ufAAAD]
+2.10.2023, 19:19:39 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:19:46 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:19:58 - INFO - server.js loaded...
+2.10.2023, 19:19:58 - INFO - Server is running on port: 3030
+2.10.2023, 19:20:06 - INFO - New connected socket [id: XM8DlYS9M3jseKeJAAAB]
+2.10.2023, 19:20:16 - DEBUG - auth.service - login with username: admin
+2.10.2023, 19:20:17 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 19:20:21 - INFO - Req was made | /
+2.10.2023, 19:20:21 - INFO - Req was made | /
+2.10.2023, 19:20:59 - INFO - New connected socket [id: WHOwnuZmvueKhP0XAAAD]
+2.10.2023, 19:20:59 - INFO - Req was made | /
+2.10.2023, 19:21:00 - INFO - Req was made | /
+2.10.2023, 19:21:02 - INFO - Req was made | /
+2.10.2023, 19:21:14 - INFO - New chat msg from socket [id: WHOwnuZmvueKhP0XAAAD], emitting to topic Love
+2.10.2023, 19:21:21 - INFO - Req was made | /
+2.10.2023, 19:21:21 - INFO - Req was made | /
+2.10.2023, 19:21:22 - INFO - Req was made | /
+2.10.2023, 19:21:30 - INFO - Req was made | /
+2.10.2023, 19:21:30 - INFO - Req was made | /
+2.10.2023, 19:21:31 - INFO - Req was made | /
+2.10.2023, 19:21:39 - INFO - New chat msg from socket [id: WHOwnuZmvueKhP0XAAAD], emitting to topic Love
+2.10.2023, 19:23:46 - INFO - New connected socket [id: NmBKwFMGFqr06Z9_AAAF]
+2.10.2023, 19:23:50 - DEBUG - auth.service - login with username: admin
+2.10.2023, 19:23:50 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 19:23:53 - INFO - Req was made | /
+2.10.2023, 19:23:53 - INFO - Req was made | /
+2.10.2023, 19:24:06 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:24:06 - INFO - New connected socket [id: o7fQMHxb2Vk9YWnAAAAH]
+2.10.2023, 19:24:06 - INFO - Req was made | /
+2.10.2023, 19:24:06 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: o7fQMHxb2Vk9YWnAAAAH]
+2.10.2023, 19:24:06 - INFO - Req was made | /
+2.10.2023, 19:24:33 - INFO - Req was made | /
+2.10.2023, 19:24:33 - INFO - Req was made | /
+2.10.2023, 19:25:25 - INFO - Req was made | /
+2.10.2023, 19:25:26 - INFO - Req was made | /
+2.10.2023, 19:25:26 - INFO - Req was made | /
+2.10.2023, 19:25:58 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:29:27 - INFO - server.js loaded...
+2.10.2023, 19:29:27 - INFO - Server is running on port: 3030
+2.10.2023, 19:29:27 - INFO - server.js loaded...
+2.10.2023, 19:29:27 - INFO - Server is running on port: 3030
+2.10.2023, 19:29:27 - INFO - New connected socket [id: GqaKewJxt5AY2zaNAAAB]
+2.10.2023, 19:29:27 - INFO - New connected socket [id: Bdye3UkVEeTg8G_8AAAD]
+2.10.2023, 19:29:36 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:29:37 - INFO - New connected socket [id: KFzvb92ZwexHSMDAAAAF]
+2.10.2023, 19:29:37 - INFO - Req was made | /
+2.10.2023, 19:29:37 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: KFzvb92ZwexHSMDAAAAF]
+2.10.2023, 19:29:38 - INFO - Req was made | /
+2.10.2023, 19:31:15 - INFO - server.js loaded...
+2.10.2023, 19:31:15 - INFO - Server is running on port: 3030
+2.10.2023, 19:31:16 - INFO - New connected socket [id: ZhpXsWzJoEHGEZ_9AAAB]
+2.10.2023, 19:31:16 - INFO - New connected socket [id: AYNUoUZ1VVJ_oNeVAAAD]
+2.10.2023, 19:31:29 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:31:30 - INFO - New connected socket [id: 9W3The_8tZ5xfwlDAAAF]
+2.10.2023, 19:31:30 - INFO - Req was made | /
+2.10.2023, 19:31:30 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 9W3The_8tZ5xfwlDAAAF]
+2.10.2023, 19:31:30 - INFO - Req was made | /
+2.10.2023, 19:33:59 - DEBUG - auth.service - signup with username: sahar1, fullname: sahar1
+2.10.2023, 19:33:59 - DEBUG - auth.route - new account created: {"username":"sahar1","password":"$2b$10$v61/cfvmPPNMRI2HwNbZQe/r45y/jp4wKfopgYnh4srHs6BnpMKBK","fullname":"sahar1","isAdmin":false,"_id":"651af0f7aedb14a7426494e8"}
+2.10.2023, 19:33:59 - DEBUG - auth.service - login with username: sahar1
+2.10.2023, 19:34:13 - INFO - Req was made | /
+2.10.2023, 19:34:29 - INFO - Req was made | /
+2.10.2023, 19:34:30 - INFO - Req was made | /
+2.10.2023, 19:34:30 - INFO - Req was made | /
+2.10.2023, 19:34:31 - INFO - Req was made | /
+2.10.2023, 19:35:01 - INFO - Req was made | /
+2.10.2023, 19:35:02 - INFO - Req was made | /
+2.10.2023, 19:35:15 - DEBUG - auth.service - login with username: admin
+2.10.2023, 19:35:15 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 19:35:52 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:35:53 - INFO - New connected socket [id: gZToHbhU7qfqMF4mAAAH]
+2.10.2023, 19:35:53 - INFO - Req was made | /
+2.10.2023, 19:35:53 - INFO - Req was made | /
+2.10.2023, 19:38:10 - INFO - Req was made | /
+2.10.2023, 19:45:14 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:45:15 - INFO - New connected socket [id: wSyi04aQT4IVY9LkAAAJ]
+2.10.2023, 19:45:15 - INFO - Req was made | /
+2.10.2023, 19:45:15 - INFO - Req was made | /
+2.10.2023, 19:45:21 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:45:21 - INFO - New connected socket [id: eXi9dgfqu0FMXZIxAAAL]
+2.10.2023, 19:45:21 - INFO - Req was made | /
+2.10.2023, 19:45:21 - INFO - Req was made | /
+2.10.2023, 19:45:22 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:45:22 - INFO - New connected socket [id: BuzT9aQUO09ZTy6oAAAN]
+2.10.2023, 19:45:22 - INFO - Req was made | /
+2.10.2023, 19:45:22 - INFO - Req was made | /
+2.10.2023, 19:45:42 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:45:42 - INFO - New connected socket [id: C4fNghCz3I_y2kKDAAAP]
+2.10.2023, 19:45:43 - INFO - Req was made | /
+2.10.2023, 19:45:43 - INFO - Req was made | /
+2.10.2023, 19:45:57 - DEBUG - auth.service - login with username: admin
+2.10.2023, 19:45:58 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 19:46:01 - INFO - Req was made | /
+2.10.2023, 19:46:01 - INFO - Req was made | /
+2.10.2023, 19:46:56 - INFO - server.js loaded...
+2.10.2023, 19:46:56 - INFO - Server is running on port: 3030
+2.10.2023, 19:46:57 - INFO - New connected socket [id: kowMThcEOS7qWMxKAAAC]
+2.10.2023, 19:46:57 - INFO - New connected socket [id: vQFWJx01Jrm9QIKYAAAD]
+2.10.2023, 19:47:04 - INFO - Req was made | /
+2.10.2023, 19:47:05 - INFO - Req was made | /
+2.10.2023, 19:48:03 - INFO - server.js loaded...
+2.10.2023, 19:48:03 - INFO - Server is running on port: 3030
+2.10.2023, 19:48:06 - INFO - New connected socket [id: vzJIegYRRb9pmxjiAAAB]
+2.10.2023, 19:48:08 - INFO - New connected socket [id: 0MIoCcy3hF3iMZCnAAAD]
+2.10.2023, 19:50:10 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:50:11 - INFO - New connected socket [id: vnqkNAZwWbMwcCysAAAF]
+2.10.2023, 19:50:11 - INFO - Req was made | /
+2.10.2023, 19:50:11 - INFO - Req was made | /
+2.10.2023, 19:54:04 - INFO - server.js loaded...
+2.10.2023, 19:54:04 - INFO - Server is running on port: 3030
+2.10.2023, 19:54:16 - INFO - New connected socket [id: Y7PhK3PGXkLY-WtRAAAB]
+2.10.2023, 19:54:17 - INFO - Req was made | /
+2.10.2023, 19:54:18 - INFO - Req was made | /
+2.10.2023, 19:54:26 - DEBUG - auth.service - login with username: admin
+2.10.2023, 19:54:26 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 19:54:36 - INFO - Req was made | /
+2.10.2023, 19:54:36 - INFO - Req was made | /
+2.10.2023, 19:55:05 - INFO - New connected socket [id: WhauB4BDGixR2FsaAAAD]
+2.10.2023, 19:55:05 - INFO - Req was made | /
+2.10.2023, 19:55:05 - INFO - Req was made | /
+2.10.2023, 19:55:17 - DEBUG - auth.service - login with username: hey
+2.10.2023, 19:55:17 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+2.10.2023, 19:55:21 - INFO - Req was made | /
+2.10.2023, 19:55:21 - INFO - Req was made | /
+2.10.2023, 19:56:04 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:56:05 - INFO - New connected socket [id: S3QSWRRQmaED3s7cAAAF]
+2.10.2023, 19:56:05 - INFO - Req was made | /
+2.10.2023, 19:56:05 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: S3QSWRRQmaED3s7cAAAF]
+2.10.2023, 19:56:06 - INFO - Req was made | /
+2.10.2023, 19:56:30 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:56:30 - INFO - New connected socket [id: MbSiOzFlWVw79sBsAAAH]
+2.10.2023, 19:56:30 - INFO - Req was made | /
+2.10.2023, 19:56:30 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: MbSiOzFlWVw79sBsAAAH]
+2.10.2023, 19:56:30 - INFO - Req was made | /
+2.10.2023, 19:56:47 - INFO - server.js loaded...
+2.10.2023, 19:56:47 - INFO - Server is running on port: 3030
+2.10.2023, 19:56:48 - INFO - New connected socket [id: q2V2GY6REeoj-1TZAAAB]
+2.10.2023, 19:56:48 - INFO - New connected socket [id: ZQGZYy1LbW-_n-rAAAAD]
+2.10.2023, 19:56:59 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:56:59 - INFO - New connected socket [id: n9tcEZvQ_Fv4T1LyAAAF]
+2.10.2023, 19:56:59 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: n9tcEZvQ_Fv4T1LyAAAF]
+2.10.2023, 19:56:59 - INFO - Req was made | /
+2.10.2023, 19:57:00 - INFO - Req was made | /
+2.10.2023, 19:57:06 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:57:06 - INFO - New connected socket [id: -nZbf1semvWCfJjFAAAH]
+2.10.2023, 19:57:07 - INFO - Req was made | /
+2.10.2023, 19:57:07 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: -nZbf1semvWCfJjFAAAH]
+2.10.2023, 19:57:07 - INFO - Req was made | /
+2.10.2023, 19:58:20 - INFO - server.js loaded...
+2.10.2023, 19:58:20 - INFO - Server is running on port: 3030
+2.10.2023, 19:58:22 - INFO - New connected socket [id: cyOzhcSyyNnftq4pAAAB]
+2.10.2023, 19:58:24 - INFO - New connected socket [id: apAEd4fdR9bZPG_eAAAD]
+2.10.2023, 19:58:30 - INFO - server.js loaded...
+2.10.2023, 19:58:30 - INFO - Server is running on port: 3030
+2.10.2023, 19:58:31 - INFO - New connected socket [id: cx8Pp_rg4OVJASBwAAAB]
+2.10.2023, 19:58:31 - INFO - New connected socket [id: ZdXXHijbalaWjHjhAAAD]
+2.10.2023, 19:58:36 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 19:58:36 - INFO - New connected socket [id: I_VTHsqwdLwzJueWAAAF]
+2.10.2023, 19:58:36 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: I_VTHsqwdLwzJueWAAAF]
+2.10.2023, 19:58:36 - INFO - Req was made | /
+2.10.2023, 19:58:36 - INFO - Req was made | /
+2.10.2023, 20:08:26 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:08:27 - INFO - New connected socket [id: nLWe832mm6rvv0y_AAAH]
+2.10.2023, 20:08:27 - INFO - Req was made | /
+2.10.2023, 20:08:28 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: nLWe832mm6rvv0y_AAAH]
+2.10.2023, 20:08:28 - INFO - Req was made | /
+2.10.2023, 20:10:26 - INFO - server.js loaded...
+2.10.2023, 20:10:26 - INFO - Server is running on port: 3030
+2.10.2023, 20:10:26 - INFO - New connected socket [id: UJYorJkLpYeH9fURAAAB]
+2.10.2023, 20:10:28 - INFO - New connected socket [id: b_biei6Rb0jJX3V9AAAD]
+2.10.2023, 20:11:24 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:11:24 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:11:25 - INFO - New connected socket [id: kYQXo_QqB9InJLeYAAAF]
+2.10.2023, 20:11:25 - INFO - Req was made | /
+2.10.2023, 20:11:25 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: kYQXo_QqB9InJLeYAAAF]
+2.10.2023, 20:11:26 - INFO - Req was made | /
+2.10.2023, 20:11:26 - INFO - New connected socket [id: LMTyOrbTuI_VORPsAAAH]
+2.10.2023, 20:11:26 - INFO - Req was made | /
+2.10.2023, 20:11:26 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: LMTyOrbTuI_VORPsAAAH]
+2.10.2023, 20:11:27 - INFO - Req was made | /
+2.10.2023, 20:11:50 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:11:51 - INFO - New connected socket [id: Gh7SjhUr3XwIbQ-_AAAJ]
+2.10.2023, 20:11:51 - INFO - Req was made | /
+2.10.2023, 20:11:51 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: Gh7SjhUr3XwIbQ-_AAAJ]
+2.10.2023, 20:11:51 - INFO - Req was made | /
+2.10.2023, 20:19:50 - INFO - Req was made | /
+2.10.2023, 20:19:50 - INFO - Req was made | /
+2.10.2023, 20:19:51 - INFO - Req was made | /
+2.10.2023, 20:19:52 - INFO - Req was made | /
+2.10.2023, 20:20:04 - INFO - server.js loaded...
+2.10.2023, 20:20:04 - INFO - Server is running on port: 3030
+2.10.2023, 20:20:05 - INFO - New connected socket [id: Sd2hKpt_mJdHYbagAAAB]
+2.10.2023, 20:20:07 - INFO - New connected socket [id: BjQFhMubPAC2ol5WAAAD]
+2.10.2023, 20:20:16 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:20:17 - INFO - New connected socket [id: 99PTbvUvSLefcybwAAAF]
+2.10.2023, 20:20:17 - INFO - Req was made | /
+2.10.2023, 20:20:17 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: 99PTbvUvSLefcybwAAAF]
+2.10.2023, 20:20:17 - INFO - Req was made | /
+2.10.2023, 20:20:20 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:20:21 - INFO - New connected socket [id: 78hwWpd-0Syhmp19AAAH]
+2.10.2023, 20:20:21 - INFO - Req was made | /
+2.10.2023, 20:20:21 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 78hwWpd-0Syhmp19AAAH]
+2.10.2023, 20:20:21 - INFO - Req was made | /
+2.10.2023, 20:20:57 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:20:57 - INFO - New connected socket [id: 34Mb_bAw4Hl-HfMjAAAJ]
+2.10.2023, 20:20:57 - INFO - Req was made | /
+2.10.2023, 20:20:57 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 34Mb_bAw4Hl-HfMjAAAJ]
+2.10.2023, 20:20:58 - INFO - Req was made | /
+2.10.2023, 20:22:38 - INFO - Req was made | /
+2.10.2023, 20:22:39 - INFO - Req was made | /
+2.10.2023, 20:22:39 - INFO - Req was made | /
+2.10.2023, 20:22:40 - INFO - Req was made | /
+2.10.2023, 20:22:44 - INFO - Req was made | /
+2.10.2023, 20:23:01 - INFO - Socket is leaving topic Love [id: 99PTbvUvSLefcybwAAAF]
+2.10.2023, 20:23:11 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:23:11 - INFO - New connected socket [id: 4ncbY9Y3fBzTcRKhAAAL]
+2.10.2023, 20:23:11 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: 4ncbY9Y3fBzTcRKhAAAL]
+2.10.2023, 20:23:11 - INFO - Req was made | /
+2.10.2023, 20:23:30 - INFO - New chat msg from socket [id: 34Mb_bAw4Hl-HfMjAAAJ], emitting to topic Love
+2.10.2023, 20:24:16 - INFO - New chat msg from socket [id: 34Mb_bAw4Hl-HfMjAAAJ], emitting to topic Love
+2.10.2023, 20:24:18 - INFO - New chat msg from socket [id: 34Mb_bAw4Hl-HfMjAAAJ], emitting to topic Love
+2.10.2023, 20:25:36 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:25:36 - INFO - New connected socket [id: SOpHf_twPQgzZpSBAAAN]
+2.10.2023, 20:25:36 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: SOpHf_twPQgzZpSBAAAN]
+2.10.2023, 20:25:37 - INFO - Req was made | /
+2.10.2023, 20:25:38 - INFO - New chat msg from socket [id: SOpHf_twPQgzZpSBAAAN], emitting to topic Love
+2.10.2023, 20:28:00 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:28:00 - INFO - New connected socket [id: yTKPHFNH1zrhtgq8AAAP]
+2.10.2023, 20:28:00 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: yTKPHFNH1zrhtgq8AAAP]
+2.10.2023, 20:28:00 - INFO - Req was made | /
+2.10.2023, 20:28:04 - INFO - New chat msg from socket [id: yTKPHFNH1zrhtgq8AAAP], emitting to topic Love
+2.10.2023, 20:28:10 - INFO - Socket is leaving topic Love [id: yTKPHFNH1zrhtgq8AAAP]
+2.10.2023, 20:28:12 - INFO - New chat msg from socket [id: yTKPHFNH1zrhtgq8AAAP], emitting to topic 6519d29d76e0707b3d522bec
+2.10.2023, 20:31:47 - INFO - Socket is leaving topic Love [id: SOpHf_twPQgzZpSBAAAN]
+2.10.2023, 20:31:58 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:31:59 - INFO - New connected socket [id: 56YRkG5xF9rJJkkEAAAR]
+2.10.2023, 20:31:59 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 56YRkG5xF9rJJkkEAAAR]
+2.10.2023, 20:31:59 - INFO - Req was made | /
+2.10.2023, 20:32:23 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:32:23 - INFO - New connected socket [id: MUUyOncenoAoHRGnAAAT]
+2.10.2023, 20:32:23 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: MUUyOncenoAoHRGnAAAT]
+2.10.2023, 20:32:24 - INFO - Req was made | /
+2.10.2023, 20:33:33 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:33:33 - INFO - New connected socket [id: GfHH5dlJlaOAemMhAAAV]
+2.10.2023, 20:33:33 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: GfHH5dlJlaOAemMhAAAV]
+2.10.2023, 20:33:33 - INFO - Req was made | /
+2.10.2023, 20:33:41 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:33:42 - INFO - New connected socket [id: zr4c4mYKZdaN0i8BAAAX]
+2.10.2023, 20:33:42 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: zr4c4mYKZdaN0i8BAAAX]
+2.10.2023, 20:33:43 - INFO - Req was made | /
+2.10.2023, 20:34:03 - INFO - New chat msg from socket [id: zr4c4mYKZdaN0i8BAAAX], emitting to topic 6519d29d76e0707b3d522bec
+2.10.2023, 20:34:16 - INFO - New chat msg from socket [id: GfHH5dlJlaOAemMhAAAV], emitting to topic 6519d29d76e0707b3d522bec
+2.10.2023, 20:36:52 - INFO - Req was made | /
+2.10.2023, 20:36:53 - INFO - Req was made | /
+2.10.2023, 20:37:12 - INFO - Req was made | /
+2.10.2023, 20:37:12 - INFO - Req was made | /
+2.10.2023, 20:41:32 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:41:32 - INFO - New connected socket [id: y8ICGWFPUlQbNfpFAAAZ]
+2.10.2023, 20:41:32 - INFO - Req was made | /
+2.10.2023, 20:41:32 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: y8ICGWFPUlQbNfpFAAAZ]
+2.10.2023, 20:41:32 - INFO - Req was made | /
+2.10.2023, 20:41:37 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:41:38 - INFO - New connected socket [id: sm2RCPLQ2agNO93DAAAb]
+2.10.2023, 20:41:38 - INFO - Req was made | /
+2.10.2023, 20:41:38 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: sm2RCPLQ2agNO93DAAAb]
+2.10.2023, 20:41:39 - INFO - Req was made | /
+2.10.2023, 20:43:11 - INFO - server.js loaded...
+2.10.2023, 20:43:11 - INFO - Server is running on port: 3030
+2.10.2023, 20:43:12 - INFO - New connected socket [id: HxDhXEBalf9H1bgSAAAB]
+2.10.2023, 20:43:12 - INFO - server.js loaded...
+2.10.2023, 20:43:12 - INFO - Server is running on port: 3030
+2.10.2023, 20:43:13 - INFO - New connected socket [id: PzG9XHu4edmAz4rxAAAB]
+2.10.2023, 20:43:14 - INFO - New connected socket [id: oF0_PuNRBv2pwYDEAAAD]
+2.10.2023, 20:43:21 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:43:22 - INFO - New connected socket [id: J-n2_Oq3My39yX2AAAAF]
+2.10.2023, 20:43:22 - INFO - Req was made | /
+2.10.2023, 20:43:22 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: J-n2_Oq3My39yX2AAAAF]
+2.10.2023, 20:43:23 - INFO - Req was made | /
+2.10.2023, 20:43:29 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:43:29 - INFO - New connected socket [id: ur9YWOlDxHIRGqyZAAAH]
+2.10.2023, 20:43:29 - INFO - Req was made | /
+2.10.2023, 20:43:29 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: ur9YWOlDxHIRGqyZAAAH]
+2.10.2023, 20:43:29 - INFO - Req was made | /
+2.10.2023, 20:43:34 - INFO - Broadcasting event: toy-added
+2.10.2023, 20:43:34 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:43:40 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:43:40 - INFO - New connected socket [id: pw8QSkCJFUf7e7kgAAAJ]
+2.10.2023, 20:43:40 - INFO - Req was made | /
+2.10.2023, 20:43:40 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: pw8QSkCJFUf7e7kgAAAJ]
+2.10.2023, 20:43:41 - INFO - Req was made | /
+2.10.2023, 20:43:48 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:43:48 - INFO - New connected socket [id: CVnHlYi1tx60xOqqAAAL]
+2.10.2023, 20:43:48 - INFO - Req was made | /
+2.10.2023, 20:43:48 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: CVnHlYi1tx60xOqqAAAL]
+2.10.2023, 20:43:48 - INFO - Req was made | /
+2.10.2023, 20:43:53 - INFO - Broadcasting event: toy-added
+2.10.2023, 20:43:53 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:44:04 - INFO - Broadcasting event: toy-added
+2.10.2023, 20:44:04 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:44:13 - INFO - Req was made | /
+2.10.2023, 20:44:15 - INFO - Req was made | /
+2.10.2023, 20:44:15 - INFO - Req was made | /
+2.10.2023, 20:44:15 - INFO - Req was made | /
+2.10.2023, 20:44:19 - INFO - Req was made | /
+2.10.2023, 20:44:19 - INFO - Req was made | /
+2.10.2023, 20:44:21 - INFO - Req was made | /
+2.10.2023, 20:44:52 - INFO - New chat msg from socket [id: pw8QSkCJFUf7e7kgAAAJ], emitting to topic 651afbd8483b48ae27248754
+2.10.2023, 20:45:13 - INFO - Req was made | /
+2.10.2023, 20:45:14 - INFO - Req was made | /
+2.10.2023, 20:45:15 - INFO - Req was made | /
+2.10.2023, 20:45:15 - INFO - Req was made | /
+2.10.2023, 20:45:19 - INFO - New chat msg from socket [id: CVnHlYi1tx60xOqqAAAL], emitting to topic 651afbd8483b48ae27248754
+2.10.2023, 20:45:25 - INFO - New chat msg from socket [id: CVnHlYi1tx60xOqqAAAL], emitting to topic 651afbd8483b48ae27248754
+2.10.2023, 20:45:34 - INFO - Req was made | /
+2.10.2023, 20:45:34 - INFO - Req was made | /
+2.10.2023, 20:45:38 - INFO - Req was made | /
+2.10.2023, 20:45:39 - INFO - Req was made | /
+2.10.2023, 20:46:34 - INFO - Req was made | /
+2.10.2023, 20:46:34 - INFO - Req was made | /
+2.10.2023, 20:46:39 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:46:40 - INFO - New connected socket [id: skwG7A7_ccbHX1VzAAAN]
+2.10.2023, 20:46:40 - INFO - Req was made | /
+2.10.2023, 20:46:40 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: skwG7A7_ccbHX1VzAAAN]
+2.10.2023, 20:46:40 - INFO - Req was made | /
+2.10.2023, 20:47:19 - INFO - Req was made | /
+2.10.2023, 20:47:19 - INFO - Req was made | /
+2.10.2023, 20:47:20 - INFO - Req was made | /
+2.10.2023, 20:47:20 - INFO - Req was made | /
+2.10.2023, 20:47:21 - INFO - Req was made | /
+2.10.2023, 20:47:21 - INFO - Req was made | /
+2.10.2023, 20:47:28 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:47:29 - INFO - New connected socket [id: AQa89gIo8vKbUTs4AAAP]
+2.10.2023, 20:47:29 - INFO - Req was made | /
+2.10.2023, 20:47:29 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: AQa89gIo8vKbUTs4AAAP]
+2.10.2023, 20:47:29 - INFO - Req was made | /
+2.10.2023, 20:47:39 - INFO - Broadcasting event: toy-added
+2.10.2023, 20:47:39 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:49:42 - INFO - server.js loaded...
+2.10.2023, 20:49:42 - INFO - Server is running on port: 3030
+2.10.2023, 20:49:43 - INFO - New connected socket [id: uu7L3JFrl5bXeXhEAAAB]
+2.10.2023, 20:49:43 - INFO - New connected socket [id: j5smfu5bLqB9Kg_MAAAD]
+2.10.2023, 20:49:49 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:49:49 - INFO - New connected socket [id: y_SDupYOs1lkczmpAAAF]
+2.10.2023, 20:49:49 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: y_SDupYOs1lkczmpAAAF]
+2.10.2023, 20:49:49 - INFO - Req was made | /
+2.10.2023, 20:49:50 - INFO - Req was made | /
+2.10.2023, 20:49:51 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:49:51 - INFO - New connected socket [id: CegPHiWiWkjHcik0AAAH]
+2.10.2023, 20:49:52 - INFO - Req was made | /
+2.10.2023, 20:49:52 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: CegPHiWiWkjHcik0AAAH]
+2.10.2023, 20:49:52 - INFO - Req was made | /
+2.10.2023, 20:50:23 - INFO - server.js loaded...
+2.10.2023, 20:50:23 - INFO - Server is running on port: 3030
+2.10.2023, 20:50:24 - INFO - New connected socket [id: g3FTp7pVMomY8d6UAAAB]
+2.10.2023, 20:50:24 - INFO - New connected socket [id: Rr4Np58At_7vaGF_AAAD]
+2.10.2023, 20:50:30 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:50:30 - INFO - New connected socket [id: xW808c55g56VhggQAAAF]
+2.10.2023, 20:50:30 - INFO - Req was made | /
+2.10.2023, 20:50:30 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: xW808c55g56VhggQAAAF]
+2.10.2023, 20:50:31 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:50:31 - INFO - New connected socket [id: rqpj-bC20C-emEBxAAAH]
+2.10.2023, 20:50:31 - INFO - Req was made | /
+2.10.2023, 20:50:31 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: rqpj-bC20C-emEBxAAAH]
+2.10.2023, 20:50:32 - INFO - Req was made | /
+2.10.2023, 20:50:32 - INFO - Req was made | /
+2.10.2023, 20:50:59 - INFO - Broadcasting event: toy-removed
+2.10.2023, 20:50:59 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:53:40 - INFO - Broadcasting event: toy-added
+2.10.2023, 20:53:40 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:53:50 - INFO - Broadcasting event: toy-added
+2.10.2023, 20:53:50 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 20:53:53 - INFO - Req was made | /
+2.10.2023, 20:55:30 - INFO - Req was made | /
+2.10.2023, 20:55:33 - INFO - New chat msg from socket [id: xW808c55g56VhggQAAAF], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 20:55:44 - INFO - New chat msg from socket [id: rqpj-bC20C-emEBxAAAH], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 20:56:04 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 20:56:21 - INFO - New connected socket [id: feufcBXiHD-Mf9cfAAAJ]
+2.10.2023, 20:56:23 - INFO - Req was made | /
+2.10.2023, 20:56:23 - INFO - Req was made | /
+2.10.2023, 20:56:31 - INFO - Req was made | /
+2.10.2023, 20:56:38 - INFO - New chat msg from socket [id: feufcBXiHD-Mf9cfAAAJ], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 20:56:51 - DEBUG - auth.service - login with username: admin
+2.10.2023, 20:56:52 - INFO - User login:  | {"_id":"6516885d85b3ba42aa1f3c47","username":"admin","fullname":"sahar","isAdmin":true}
+2.10.2023, 20:56:52 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: feufcBXiHD-Mf9cfAAAJ]
+2.10.2023, 20:57:57 - INFO - Req was made | /
+2.10.2023, 20:57:58 - INFO - Req was made | /
+2.10.2023, 20:58:00 - INFO - Req was made | /
+2.10.2023, 20:58:03 - INFO - New chat msg from socket [id: feufcBXiHD-Mf9cfAAAJ], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:02:08 - INFO - New chat msg from socket [id: xW808c55g56VhggQAAAF], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:02:12 - INFO - New chat msg from socket [id: feufcBXiHD-Mf9cfAAAJ], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:02:23 - INFO - Removing socket.userId for socket [id: feufcBXiHD-Mf9cfAAAJ]
+2.10.2023, 21:02:27 - DEBUG - auth.service - login with username: hey
+2.10.2023, 21:02:28 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+2.10.2023, 21:02:28 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: feufcBXiHD-Mf9cfAAAJ]
+2.10.2023, 21:02:29 - INFO - Req was made | /
+2.10.2023, 21:02:30 - INFO - Req was made | /
+2.10.2023, 21:02:31 - INFO - Req was made | /
+2.10.2023, 21:02:35 - INFO - New chat msg from socket [id: feufcBXiHD-Mf9cfAAAJ], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:02:55 - INFO - New chat msg from socket [id: xW808c55g56VhggQAAAF], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:05:06 - INFO - Req was made | /
+2.10.2023, 21:05:06 - INFO - Req was made | /
+2.10.2023, 21:06:22 - INFO - Req was made | /
+2.10.2023, 21:06:22 - INFO - Req was made | /
+2.10.2023, 21:06:39 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:06:40 - INFO - New connected socket [id: TxmaxvJTG8kydwtaAAAL]
+2.10.2023, 21:06:40 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: TxmaxvJTG8kydwtaAAAL]
+2.10.2023, 21:06:41 - INFO - Req was made | /
+2.10.2023, 21:07:49 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:07:50 - INFO - New connected socket [id: Dh-I11o_dozVB4DMAAAN]
+2.10.2023, 21:07:50 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: Dh-I11o_dozVB4DMAAAN]
+2.10.2023, 21:07:50 - INFO - Req was made | /
+2.10.2023, 21:08:43 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:08:44 - INFO - New connected socket [id: f_uAsq2Oqdp4ljD7AAAP]
+2.10.2023, 21:08:44 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: f_uAsq2Oqdp4ljD7AAAP]
+2.10.2023, 21:08:44 - INFO - Req was made | /
+2.10.2023, 21:31:13 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:31:13 - INFO - New connected socket [id: 0tMqdy49Nwdag7_1AAAR]
+2.10.2023, 21:31:13 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 0tMqdy49Nwdag7_1AAAR]
+2.10.2023, 21:31:13 - INFO - Req was made | /
+2.10.2023, 21:34:33 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:34:34 - INFO - New connected socket [id: pud-tBleaZyac7auAAAT]
+2.10.2023, 21:34:34 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: pud-tBleaZyac7auAAAT]
+2.10.2023, 21:34:34 - INFO - Req was made | /
+2.10.2023, 21:38:04 - INFO - Req was made | /
+2.10.2023, 21:38:04 - INFO - Req was made | /
+2.10.2023, 21:38:05 - INFO - Req was made | /
+2.10.2023, 21:38:06 - INFO - Req was made | /
+2.10.2023, 21:38:07 - INFO - Req was made | /
+2.10.2023, 21:38:07 - INFO - Req was made | /
+2.10.2023, 21:38:08 - INFO - Req was made | /
+2.10.2023, 21:38:26 - INFO - New connected socket [id: Koy9Zxsb26WvpxziAAAV]
+2.10.2023, 21:38:27 - INFO - Req was made | /
+2.10.2023, 21:38:37 - INFO - New connected socket [id: J_u6uyH07sk7ird5AAAX]
+2.10.2023, 21:38:37 - INFO - Req was made | /
+2.10.2023, 21:38:42 - DEBUG - auth.service - login with username: hey
+2.10.2023, 21:38:43 - INFO - User login:  | {"_id":"65169a9aadedd447f58f7063","username":"hey","fullname":"hey","isAdmin":false}
+2.10.2023, 21:38:43 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: J_u6uyH07sk7ird5AAAX]
+2.10.2023, 21:38:44 - INFO - Req was made | /
+2.10.2023, 21:38:45 - INFO - Req was made | /
+2.10.2023, 21:38:46 - INFO - Req was made | /
+2.10.2023, 21:39:17 - INFO - New chat msg from socket [id: pud-tBleaZyac7auAAAT], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:39:28 - INFO - New chat msg from socket [id: J_u6uyH07sk7ird5AAAX], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 21:40:15 - INFO - Req was made | /
+2.10.2023, 21:40:47 - INFO - Req was made | /
+2.10.2023, 21:40:47 - INFO - Req was made | /
+2.10.2023, 21:40:49 - INFO - Req was made | /
+2.10.2023, 21:40:50 - INFO - Req was made | /
+2.10.2023, 21:40:53 - INFO - Broadcasting event: toy-removed
+2.10.2023, 21:40:53 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 21:40:58 - INFO - Broadcasting event: toy-added
+2.10.2023, 21:40:58 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 21:41:47 - INFO - Broadcasting event: toy-removed
+2.10.2023, 21:41:47 - INFO - Broadcast to all excluding user: 6516885d85b3ba42aa1f3c47
+2.10.2023, 21:42:09 - INFO - Req was made | /
+2.10.2023, 21:42:22 - INFO - Req was made | /
+2.10.2023, 21:42:22 - INFO - Req was made | /
+2.10.2023, 21:42:23 - INFO - Socket is leaving topic 651b03a42dcd69b29f97acb6 [id: pud-tBleaZyac7auAAAT]
+2.10.2023, 21:42:23 - INFO - Req was made | /
+2.10.2023, 21:55:01 - INFO - server.js loaded...
+2.10.2023, 21:55:01 - INFO - Server is running on port: 3030
+2.10.2023, 21:55:01 - INFO - New connected socket [id: bCyuhknvZUlGpe6UAAAB]
+2.10.2023, 21:55:01 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: bCyuhknvZUlGpe6UAAAB]
+2.10.2023, 21:55:01 - INFO - New connected socket [id: rkrK1r32KyMJZ_03AAAD]
+2.10.2023, 21:55:02 - INFO - New connected socket [id: i2kQOZ_X-eyU4pqZAAAF]
+2.10.2023, 21:55:02 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: i2kQOZ_X-eyU4pqZAAAF]
+2.10.2023, 21:55:05 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:55:05 - INFO - New connected socket [id: 9WPj6HdIKJMsNOgKAAAH]
+2.10.2023, 21:55:05 - INFO - Req was made | /
+2.10.2023, 21:55:05 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: 9WPj6HdIKJMsNOgKAAAH]
+2.10.2023, 21:55:06 - INFO - New connected socket [id: LVjEN6mnZx9HHssCAAAJ]
+2.10.2023, 21:55:06 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: LVjEN6mnZx9HHssCAAAJ]
+2.10.2023, 21:55:07 - INFO - Req was made | /
+2.10.2023, 21:56:46 - INFO - Req was made | /
+2.10.2023, 21:56:58 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:56:59 - INFO - New connected socket [id: LSTkiQ45Zvr-2QCcAAAL]
+2.10.2023, 21:56:59 - INFO - Req was made | /
+2.10.2023, 21:56:59 - INFO - Setting socket.userId = 65169a9aadedd447f58f7063 for socket [id: LSTkiQ45Zvr-2QCcAAAL]
+2.10.2023, 21:56:59 - INFO - Req was made | /
+2.10.2023, 21:57:01 - INFO - Req was made | /
+2.10.2023, 21:57:04 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 21:57:04 - INFO - New connected socket [id: mmNydhVqS3rlvxTcAAAN]
+2.10.2023, 21:57:05 - INFO - Req was made | /
+2.10.2023, 21:57:06 - INFO - New chat msg from socket [id: LSTkiQ45Zvr-2QCcAAAL], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:01:18 - INFO - Req was made | /
+2.10.2023, 22:01:23 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:01:24 - INFO - New connected socket [id: VnJmJPj-F5Z6AaTyAAAP]
+2.10.2023, 22:01:24 - INFO - Setting socket.userId = 6516885d85b3ba42aa1f3c47 for socket [id: VnJmJPj-F5Z6AaTyAAAP]
+2.10.2023, 22:01:24 - INFO - Req was made | /
+2.10.2023, 22:01:30 - INFO - New chat msg from socket [id: VnJmJPj-F5Z6AaTyAAAP], emitting to topic 651b03a42dcd69b29f97acb6
+2.10.2023, 22:03:02 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:03:03 - INFO - Socket disconnected [id: undefined]
+2.10.2023, 22:03:09 - INFO - Req was made | /
+2.10.2023, 22:04:16 - INFO - server.js loaded...
+2.10.2023, 22:04:16 - INFO - Server is running on port: 3030
+2.10.2023, 22:04:16 - INFO - New connected socket [id: 8qeQaPZYgxmmYngNAAAB]
+2.10.2023, 22:04:17 - INFO - New connected socket [id: hVvhoEXkUsUIg2yiAAAD]

@@ -1,5 +1,7 @@
 import { logger } from '../../services/logger.service.js'
 import { toyService } from './toy.service.js'
+import { socketService } from '../../services/socket.service.js'
+
 
 export async function getToys(req, res) {
     try {
@@ -11,7 +13,6 @@ export async function getToys(req, res) {
             sortBy: req.query.sortBy || '' 
         }
         const toys = await toyService.query(filterBy)
-        console.log('toys:', toys)
         res.json(toys)
     } catch (err) {
         res.status(500).send({ err: 'Failed to get toys' })
@@ -31,12 +32,13 @@ export async function getToyById(req, res) {
 }
 
 export async function addToy(req, res) {
-    // const { loggedinUser } = req
+    const { loggedinUser } = req
     try {
         const { name, price } = req.body
         const newToy = toyService.getEmptyToy(name,price)
         // toy.owner = loggedinUser
         const addedToy = await toyService.add(newToy)
+        socketService.broadcast({ type: 'toy-added', data: addedToy, userId: loggedinUser._id })
         res.json(addedToy)
     } catch (err) {
         // logger.error('Failed to add car', err)
@@ -57,9 +59,13 @@ export async function updateToy(req, res) {
 }
 
 export async function removeToy(req, res) {
+    const { loggedinUser } = req
+
     try {
         const toyId = req.params.id
         await toyService.remove(toyId)
+        socketService.broadcast({ type: 'toy-removed', data: toyId, userId: loggedinUser._id })
+
         res.send()
     } catch (err) {
         // logger.error('Failed to remove car', err)

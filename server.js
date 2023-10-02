@@ -62,9 +62,9 @@ app.get('/**', (req, res) => {
     res.sendFile(path.resolve('public/index.html'))
 })
 
+// import { logger } from './services/logger.service.js'
 const port = process.env.PORT || 3030
-
-app.listen(port, () => {
+server.listen(port, () => {
     logger.info('Server is running on port: ' + port)
 })
 
